@@ -1,0 +1,331 @@
+(footprint "USB4135GFA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "USB4135-GF-A-1")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at 0 -0.102 0)
+		(layer "F.SilkS")
+		(uuid "14706568-4419-4414-97ac-446e8f31a651")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "USB4135GFA"
+		(at 0 -0.102 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4544c558-7794-46c1-98f2-69dd9b7482c2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4f51c5c-1913-4e6a-8f69-9af2afe20ebf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ad1b9776-5e51-42f8-8300-ed5d6659b2a1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.47 -2)
+		(end -4.47 -0.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "36e8b3e7-1c09-4939-a4db-64825364aef0")
+	)
+	(fp_line
+		(start -4.47 1.6)
+		(end -4.47 3.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "82340f49-cde7-4496-b11b-7ea2c8b2e3b3")
+	)
+	(fp_line
+		(start -4.47 3.45)
+		(end 4.47 3.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "91037811-7ae9-4092-a407-597024c35340")
+	)
+	(fp_line
+		(start -3.4 -3.45)
+		(end -4 -3.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6331e35c-ce1c-4a64-a8e4-7c23bfbf8c21")
+	)
+	(fp_line
+		(start -0.5 -4.2)
+		(end -0.5 -4.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "34d16fe5-ede0-4180-86dc-b4b3f9b2acde")
+	)
+	(fp_line
+		(start -0.5 -4.1)
+		(end -0.5 -4.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "68afbc67-2ce1-4e0d-a55c-5ef6cbf7679f")
+	)
+	(fp_line
+		(start 3.4 -3.45)
+		(end 4 -3.45)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4899e2b0-c534-46e3-80c1-33f4ed80761d")
+	)
+	(fp_line
+		(start 4.47 -0.4)
+		(end 4.47 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b7777a99-d574-4dcc-89cd-b64a32d3a21e")
+	)
+	(fp_line
+		(start 4.47 3.45)
+		(end 4.47 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6c67e1db-6184-40f6-ba2f-56703ab43d65")
+	)
+	(fp_arc
+		(start -0.5 -4.2)
+		(mid -0.45 -4.15)
+		(end -0.5 -4.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a6f43441-5c58-4710-a77d-cd1931f1e2c0")
+	)
+	(fp_arc
+		(start -0.5 -4.1)
+		(mid -0.55 -4.15)
+		(end -0.5 -4.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aec781a9-86fb-402b-8c82-25962ff21dad")
+	)
+	(fp_line
+		(start -7.025 -4.655)
+		(end 7.025 -4.655)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ec95ea3a-d772-4f46-bc5f-a7ff66c75117")
+	)
+	(fp_line
+		(start -7.025 4.45)
+		(end -7.025 -4.655)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "98e6c26b-c23f-49ae-86f9-8896afaa611b")
+	)
+	(fp_line
+		(start 7.025 -4.655)
+		(end 7.025 4.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d2f7a124-59dd-43bd-b3b1-ebf6b0d13e0f")
+	)
+	(fp_line
+		(start 7.025 4.45)
+		(end -7.025 4.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "43c1add9-13ec-430d-953f-0d7f86d95cfc")
+	)
+	(fp_line
+		(start -4.47 -3.45)
+		(end -4.47 3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e44cb167-7a66-4ce9-a1e6-b5dc9ed038fe")
+	)
+	(fp_line
+		(start -4.47 3.45)
+		(end 4.47 3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "85189702-d211-4ef2-bd97-a6e804e8d53f")
+	)
+	(fp_line
+		(start 4.47 -3.45)
+		(end -4.47 -3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cb7322fc-8ea7-4423-9420-29cd9eaedec6")
+	)
+	(fp_line
+		(start 4.47 3.45)
+		(end 4.47 -3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "41b9cd7c-880b-411e-baa1-078d27b675fd")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.102 0)
+		(layer "F.Fab")
+		(uuid "5c47d5ea-f357-463a-86b0-7e9ecad727bb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "A5" smd rect
+		(at -0.5 -3.055)
+		(size 0.7 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "51d9b12b-28d3-48b7-9144-8ef57aa486a9")
+	)
+	(pad "A9" smd rect
+		(at 1.52 -3.055)
+		(size 0.76 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "65218369-0d31-4569-88d3-a9c9d7570c31")
+	)
+	(pad "A12" smd rect
+		(at 2.75 -3.055)
+		(size 0.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "36a75939-0d62-4e4e-a848-a67aca9f3735")
+	)
+	(pad "B5" smd rect
+		(at 0.5 -3.055)
+		(size 0.7 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "82986484-404b-4acf-a25a-e95d6631b850")
+	)
+	(pad "B9" smd rect
+		(at -1.52 -3.055)
+		(size 0.76 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9c778dcd-b6e0-43d8-a197-4d8c047be036")
+	)
+	(pad "B12" smd rect
+		(at -2.75 -3.055)
+		(size 0.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2013ec38-b825-4f96-af03-2f7246bd860b")
+	)
+	(pad "MP1" smd rect
+		(at -5.125 -2.98 90)
+		(size 1.35 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9a3555e0-82b0-43e3-9ad2-9286b11a729a")
+	)
+	(pad "MP2" smd rect
+		(at 5.125 -2.98 90)
+		(size 1.35 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9b180025-b1c3-456c-82ef-a350cfa154a0")
+	)
+	(pad "MP3" smd rect
+		(at -5.125 0.6 90)
+		(size 1.5 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "742cbb75-1723-474d-96e6-5c7106a5d6de")
+	)
+	(pad "MP4" smd rect
+		(at 5.125 0.6 90)
+		(size 1.5 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "003efbf1-bbd5-4e9a-acdc-3c45d3abd24d")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/USB4135-GF-A.stp"
+		(offset
+			(xyz -0.009999999626 -3.349999854 0.01999999925)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

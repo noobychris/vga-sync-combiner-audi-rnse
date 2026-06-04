@@ -1,0 +1,247 @@
+(footprint "ERJP08__1206_"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "ERJP08_(1206)")
+	(tags "Resistor")
+	(property "Reference" "REF**"
+		(at 0 0.05 0)
+		(layer "F.SilkS")
+		(uuid "6459ed69-c5d4-4dd8-9ebc-dfa8fb416e2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+			)
+		)
+	)
+	(property "Value" "ERJ-P08F5101V"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c6af73a2-da55-42f4-b792-3c41d396116c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/ERJ-P08F5101V.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d22e4589-715b-4655-892d-c46be967f030")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Panasonic ERJP08 Series Thick Film Surface Mount Resistor 1206 Case 5.1k +/-1% 0.66W +/-100ppm/C"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24e42b59-cb5c-4831-a583-6572394db17e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3379352-6a5c-449c-9453-ecca7cac4d01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "667-ERJ-P08F5101V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "703b7e7a-3503-44ce-b293-41a5685e0bed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf8b651b-4bc3-4049-98f8-7003c1dc3284")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "172553a6-a636-46c5-b8da-68ae951a3aab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ERJ-P08F5101V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "44634fe6-5e84-46d5-b3ef-5401a8eb487d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -2.825 0)
+		(end -2.825 0.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "07a406d8-3edf-4933-a026-af0830bd893f")
+	)
+	(fp_line
+		(start 3.15 1.8)
+		(end -3.725 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "332eb73c-05da-447e-a776-12864fcd0406")
+	)
+	(fp_line
+		(start 3.15 -1.8)
+		(end 3.15 1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "749bc392-039f-49e5-a7c3-8d6f588aefbe")
+	)
+	(fp_line
+		(start -3.725 1.8)
+		(end -3.725 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "36e1e9ad-6222-4eea-b704-c78213fb036b")
+	)
+	(fp_line
+		(start -3.725 -1.8)
+		(end 3.15 -1.8)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d9b6aba5-d7bc-4434-8fe8-508587f9483f")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9b4ec826-a66f-4b53-8516-78e48e77b523")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ecc0b7b5-5481-4616-87af-6370d63561b4")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ff65a489-ee7f-4429-9c9c-b86de7aeea7f")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2c763e09-b716-4d23-abcb-af72c6f78ab4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.2875 0 0)
+		(layer "F.Fab")
+		(uuid "522323b6-af12-4886-9208-bb92be558a47")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.725 0)
+		(size 1.25 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6cc8f3fc-2745-4fff-b27b-a571b3d4722f")
+	)
+	(pad "2" smd rect
+		(at 1.725 0)
+		(size 1.25 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bb947f22-cb1d-4135-b3ac-6c2d13cb2310")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/ERJ-P08F5101V.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

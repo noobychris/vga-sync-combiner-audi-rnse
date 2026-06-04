@@ -1,0 +1,605 @@
+(footprint "214450985"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "2-1445098-5-2")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at -6 4.078 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0e972d0a-9b49-4760-8bb5-c4f2a168690d")
+		(effects
+			(font
+				(face "Nimbus Sans")
+				(size 1.6 1.6)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+		(render_cache "REF**" 0
+			(polygon
+				(pts
+					(xy 140.599366 106.411827) (xy 140.684879 106.434212) (xy 140.755592 106.469404) (xy 140.814031 106.517143)
+					(xy 140.866641 106.583282) (xy 140.90463 106.659158) (xy 140.928255 106.746642) (xy 140.936544 106.848238)
+					(xy 140.928284 106.945059) (xy 140.904831 107.027448) (xy 140.867178 107.098079) (xy 140.814943 107.15889)
+					(xy 140.746415 107.210911) (xy 140.658693 107.25417) (xy 140.752238 107.299452) (xy 140.806899 107.342195)
+					(xy 140.843521 107.39602) (xy 140.86542 107.468517) (xy 140.875594 107.57597) (xy 140.886229 107.846996)
+					(xy 140.891463 107.89802) (xy 140.902643 107.930136) (xy 140.922987 107.955768) (xy 140.958428 107.98045)
+					(xy 140.958428 108.042) (xy 140.596362 108.042) (xy 140.570507 107.983692) (xy 140.556404 107.931113)
+					(xy 140.549908 107.870371) (xy 140.547123 107.761902) (xy 140.548295 107.65209) (xy 140.54937 107.586145)
+					(xy 140.541298 107.511062) (xy 140.52094 107.464219) (xy 140.48047 107.425722) (xy 140.422747 107.40098)
+					(xy 140.341568 107.391727) (xy 139.956544 107.391727) (xy 139.956544 108.042) (xy 139.620758 108.042)
+					(xy 139.620758 107.116612) (xy 139.956544 107.116612) (xy 140.361205 107.116612) (xy 140.430173 107.113831)
+					(xy 140.473264 107.107038) (xy 140.509786 107.093549) (xy 140.540577 107.072746) (xy 140.572086 107.032481)
+					(xy 140.592893 106.974883) (xy 140.600758 106.893863) (xy 140.592843 106.816824) (xy 140.571773 106.761694)
+					(xy 140.539502 106.722795) (xy 140.507074 106.701034) (xy 140.471701 106.687917) (xy 140.429977 106.681564)
+					(xy 140.361205 106.678929) (xy 139.956544 106.678929) (xy 139.956544 107.116612) (xy 139.620758 107.116612)
+					(xy 139.620758 106.403814) (xy 140.495734 106.403814)
+				)
+			)
+			(polygon
+				(pts
+					(xy 141.570696 107.335454) (xy 141.570696 107.766884) (xy 142.455539 107.766884) (xy 142.455539 108.042)
+					(xy 141.234911 108.042) (xy 141.234911 106.403814) (xy 142.414994 106.403814) (xy 142.414994 106.678929)
+					(xy 141.570696 106.678929) (xy 141.570696 107.060339) (xy 142.352664 107.060339) (xy 142.352664 107.335454)
+				)
+			)
+			(polygon
+				(pts
+					(xy 143.052566 107.335454) (xy 143.052566 108.042) (xy 142.716781 108.042) (xy 142.716781 106.403814)
+					(xy 143.864136 106.403814) (xy 143.864136 106.678929) (xy 143.052566 106.678929) (xy 143.052566 107.060339)
+					(xy 143.767807 107.060339) (xy 143.767807 107.335454)
+				)
+			)
+			(polygon
+				(pts
+					(xy 144.212524 106.820785) (xy 143.969649 106.739599) (xy 144.018888 106.583772) (xy 144.261666 106.664958)
+					(xy 144.261666 106.403814) (xy 144.422475 106.403814) (xy 144.422475 106.664958) (xy 144.665253 106.583772)
+					(xy 144.715567 106.739599) (xy 144.471714 106.820785) (xy 144.622657 107.03142) (xy 144.492524 107.127945)
+					(xy 144.342657 106.916333) (xy 144.191714 107.127945) (xy 144.061582 107.03142)
+				)
+			)
+			(polygon
+				(pts
+					(xy 145.083201 106.820785) (xy 144.840326 106.739599) (xy 144.889565 106.583772) (xy 145.132343 106.664958)
+					(xy 145.132343 106.403814) (xy 145.293152 106.403814) (xy 145.293152 106.664958) (xy 145.535929 106.583772)
+					(xy 145.586243 106.739599) (xy 145.342391 106.820785) (xy 145.493333 107.03142) (xy 145.363201 107.127945)
+					(xy 145.213333 106.916333) (xy 145.062391 107.127945) (xy 144.932259 107.03142)
+				)
+			)
+		)
+	)
+	(property "Value" "RGBS_OUT"
+		(at -6 4.078 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "05cefac5-140a-4952-8778-ff098e1e95db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.2)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=micro-mate-n-lok-connector-qrg&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1445098-5&DocFormat=pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1849eaa8-2fd8-42d0-b3eb-99427d97c80b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Configuration Features: PCB Mount Orientation Right Angle | Number of Power Positions 5 | Number of Positions 5 | Number of Rows 1 | Contact Features: Contact Mating Area Plating Material Gold | Contact Type Pin | PCB Contact Termination Area Plating Material Tin | Contact Current Rating (Max) 5 AMP | Multiple Contact Types Without | Contact Retention Within Housing Without | Contact Mating Area Plating Material Thickness 30 MICIN | Contact Mating Area Plating Material Thickness .76 MICM | Contact Layout In"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "329c42a3-e089-4a87-b8b7-bb7b9fb4391d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "4.39"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e41e7c52-7f9d-44c1-a20b-c943ffb1d5cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "571-2-1445098-5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72609c6c-a0c4-41e7-bd58-43db2acfc2d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2-1445098-5?qs=Eu63EZxBwKJyB4WsIg1YTQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "167bf656-ab85-4058-b4d6-ea79c9d2201d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TE Connectivity"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6740046a-feff-4435-926d-0d2eab02e11a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "2-1445098-5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "872ec6e3-35c4-4daf-b99c-da050f2ae7f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2baeb883-7143-40cc-ab79-205d3386f755")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "2,14 €"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "887b6802-9cda-444c-b91d-d273bb710df2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://mou.sr/42nyMJL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "201549df-501c-449d-a5e2-f5a1ed3ce73e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d0b3cfb-69a5-46dc-95b1-62dffd27c6c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Comment" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36eb281b-b132-4af3-b3e4-383c7053d2ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "84b790a1-1948-4306-888f-b523956590e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "EU_RoHS_Compliance" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4c01458-ce88-4f5e-a5e2-c4354facccad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b213307e-2517-4e1a-801d-4124b34be0a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d2934a2-efc4-4b45-ad56-47da9e6b2e50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f134b4e5-dc2b-45cb-a4f5-c468466a9b50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4cf8a092-3e27-40dd-bba5-17eb3b827fce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ceedf0fe-1e72-4279-ae76-fbe5f28717c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4949240-2e60-4e55-bda0-0a313dfd3dbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a48e67ed-2ac7-4c84-ba0c-560287395334")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field8" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da5a7b76-9a87-4a27-a193-40663ae76401")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c31e817f-1634-40db-a34e-e2b00bb6c68d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Optional" "No"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3266c470-8f48-4218-bf15-4593037004ef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Stock" "2.878"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "12d9c92c-ec91-4575-8b58-d5145bfd7516")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Alternative Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccbcfb29-c101-4605-95a1-f59d2ee048dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "vga_sync_combiner_usb-c.kicad_sch")
+	(zone_connect 1)
+	(attr through_hole dnp)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -16.57 -1.765)
+		(end 4.57 -1.765)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d891431b-24cd-4c3f-b532-ceaf3f915176")
+	)
+	(fp_line
+		(start -16.57 9.92)
+		(end -16.57 -1.765)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f355274d-9cd6-4b75-902c-f9cfa757bc1f")
+	)
+	(fp_line
+		(start 4.57 -1.765)
+		(end 4.57 9.92)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5deda9b7-7b6a-4aad-9679-a9e192913bf2")
+	)
+	(fp_line
+		(start 4.57 9.92)
+		(end -16.57 9.92)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "02e6bfb0-9d67-4b5c-b45d-cc4a3e3c8670")
+	)
+	(fp_line
+		(start -15.57 -0.58)
+		(end 3.57 -0.58)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b7586112-42a8-4660-a648-7a666f707832")
+	)
+	(fp_line
+		(start -15.57 8.92)
+		(end -15.57 -0.58)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f1989043-e1de-49bc-98e8-00e9a237eceb")
+	)
+	(fp_line
+		(start 3.57 -0.58)
+		(end 3.57 8.92)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ea98492b-a15d-406c-b703-66467f050611")
+	)
+	(fp_line
+		(start 3.57 8.92)
+		(end -15.57 8.92)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "936dd2dd-abde-4a0f-b50d-57b2c9449175")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -6 4.078 0)
+		(layer "F.Fab")
+		(uuid "1ad10543-cb38-4149-badd-c4c675731ea0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -9.85 4.32)
+		(size 3.05 3.05)
+		(drill 3.05)
+		(layers "*.Cu" "*.Mask")
+		(uuid "3462f286-b4db-4f43-bd4b-2d605ce5ec9d")
+	)
+	(pad "" np_thru_hole circle
+		(at -2.15 4.32)
+		(size 3.05 3.05)
+		(drill 3.05)
+		(layers "*.Cu" "*.Mask")
+		(uuid "276281d3-2f03-49c0-911b-b2b8de569cee")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.53 1.53)
+		(drill 1.02)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(zone_connect 1)
+		(uuid "5abab65b-81e1-4520-9918-5cd77a08a017")
+	)
+	(pad "2" thru_hole circle
+		(at -3 0)
+		(size 1.53 1.53)
+		(drill 1.02)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(zone_connect 1)
+		(uuid "7e3dfade-f598-4cc5-9838-ca0f007f5107")
+	)
+	(pad "3" thru_hole circle
+		(at -6 0)
+		(size 1.53 1.53)
+		(drill 1.02)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(zone_connect 1)
+		(uuid "44b6bd54-03e7-4e69-ad43-3b0960865f48")
+	)
+	(pad "4" thru_hole circle
+		(at -9 0)
+		(size 1.53 1.53)
+		(drill 1.02)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(zone_connect 1)
+		(uuid "9089e49f-8a2c-40c9-96c7-e5f3923b3991")
+	)
+	(pad "5" thru_hole circle
+		(at -12 0)
+		(size 1.53 1.53)
+		(drill 1.02)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(zone_connect 1)
+		(uuid "de1fd35f-e23f-4489-a316-142ef37429f8")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/2-1445098-5.stp"
+		(offset
+			(xyz -5.99999991 -8.939999446 2.390000069)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/3dmodels/1445022-5.stp"
+		(offset
+			(xyz -6 -2.7 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
+)
