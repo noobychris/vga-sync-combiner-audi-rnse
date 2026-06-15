@@ -8,10 +8,11 @@ The case is designed to hold the PCB and protect it during installation or use i
 
 ```text
 3d_print_case/
-├─ vga_sync_combiner.3mf
-├─ vga_sync_combiner.stl
+├─ vga_sync_combiner_case.3mf
+├─ vga_sync_combiner_case.stl
 └─ 3d_models/
    ├─ vga_sync_combiner_case.step
+   ├─ vga_sync_combiner_pcb.step
    └─ vga_sync_combiner_with_all_pcb_parts.step
 ```
 
