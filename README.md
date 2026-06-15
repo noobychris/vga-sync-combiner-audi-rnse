@@ -27,7 +27,7 @@ Power for the logic IC can be selected by jumper:
 The external JST input is intended as an optional 5V supply. Its polarity is marked directly on the PCB. Check polarity before applying power.
 
 <p align="center">
-  <img src="docs/images/pcb.png" alt="PCBt" width="700">
+  <img src="docs/images/pcb.png" alt="PCB" width="700">
 </p>
 
 
