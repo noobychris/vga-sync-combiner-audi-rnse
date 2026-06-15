@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "vga_sync_combiner_footprints") (type "KiCad") (uri "${KIPRJMOD}/vga_sync_combiner_footprints.pretty") (options "") (descr ""))
+)
