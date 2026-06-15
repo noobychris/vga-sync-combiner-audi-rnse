@@ -34,6 +34,7 @@ The external JST input is intended as an optional 5V supply. Its polarity is mar
 ## Audi RNS-E Connection
 
 The board was made for an Audi RNS-E RGBS input setup. The RGB and C-Sync output can be wired to the corresponding RNS-E AV/RGB connector pins.
+See the [Audi RNS-E pinout](docs/images/rns-e_pinout.jpg) for the connector reference.
 
 
 ## Case
