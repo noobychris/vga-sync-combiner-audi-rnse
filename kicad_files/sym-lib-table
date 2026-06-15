@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "vga_sync_combiner_symbols")(type "KiCad")(uri "${KIPRJMOD}/vga_sync_combiner_symbols.kicad_sym")(options "")(descr ""))
-  (lib (name "USB4135-GF-A")(type "KiCad")(uri "${KIPRJMOD}/symbols import/USB4135-GF-A.kicad_sym")(options "")(descr ""))
-  (lib (name "ERJ-P08F5101V")(type "KiCad")(uri "${KIPRJMOD}/symbols import/ERJ-P08F5101V.kicad_sym")(options "")(descr ""))
-)
