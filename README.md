@@ -112,5 +112,5 @@ The sync-combining logic is based on the original VGA to RGB+CSYNC adapter circu
 The included PCB adapts the concept for an Audi RNS-E RGBS input use case.
 
 <p align="center">
-  <img src="kicad_files/vga2rgbs_ttl.gif" alt="Original Engdahl VGA to RGBS schematic" width="700">
+  <img src="/docs/images/vga2rgbs_ttl.gif" alt="Original Engdahl VGA to RGBS schematic" width="700">
 </p>
