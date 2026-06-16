@@ -9107,7 +9107,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "JST ZR 2-pin cable assembly for optional external 5V input. Excluded from board, included in complete BOM. PCB polarity: Pin 2 = +5V, Pin 1 = GND."
 			(at 116.84 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -11322,7 +11322,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "TE Micro-MATE-N-LOK 5-position cable housing for RGBS output cable. Excluded from board, included in complete BOM."
 			(at 41.91 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -11752,7 +11752,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x16, top/bottom pin numbering scheme (row 1: 1...pins_per_row, row2: pins_per_row+1 ... num_pins), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Audi/VW 32-pin RNS-E AV connector housing for RGBS/audio cable connection. Excluded from board, included in complete BOM."
 			(at 182.88 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -13032,7 +13032,7 @@
 				)
 			)
 		)
-		(property "Category" "PCB"
+		(property "Category" "Accessory"
 			(at 83.82 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -13410,7 +13410,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -13515,7 +13515,7 @@
 				)
 			)
 		)
-		(property "Category" ""
+		(property "Category" "PCB"
 			(at 43.18 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -14637,7 +14637,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Shielded stereo audio cable, Cordial CPK 220 BK. Carries left/right audio and ground to the 3.5mm TRS plug."
 			(at 93.98 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -15691,7 +15691,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x06, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Shielded RGBS cable, LAPP UNITRONIC LiYCY 5x0.34mm², black. Carries R, G, B, C-Sync and GND to the Audi RNS-E connector."
 			(at 93.98 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -16013,7 +16013,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -16118,7 +16118,7 @@
 				)
 			)
 		)
-		(property "Category" ""
+		(property "Category" "PCB"
 			(at 43.18 110.49 90)
 			(hide yes)
 			(show_name no)
