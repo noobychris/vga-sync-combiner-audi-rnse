@@ -4,6 +4,12 @@ This folder contains a 3D-printable case for the VGA RGBHV to RGBS / C-Sync Comb
 
 The case is designed to hold the PCB and protect it during installation or use in a cable harness. It uses two M2 heat-set inserts and two M2 countersunk screws to close the case.
 
+## Print Material
+
+PETG, ABS or ASA are recommended for the case. PLA may work for testing, but is not recommended for use in a car or other warm environments.
+
+For vehicle use, ABS or ASA is preferred because of the higher temperature resistance. PETG is a reasonable alternative if the case is not exposed to high temperatures.
+
 ## Files
 
 ```text
@@ -40,7 +46,7 @@ If your rod fits too loosely or too tightly, adjust the hole or rod diameter acc
 After soldering the VGA connector, the ground/shield feet of the VGA connector may need to be shortened slightly. Otherwise they may interfere with the case fit.
 
 <p align="center">
-  <img src="/docs/images/cut.png" alt="PCB" width="1200">
+  <img src="/docs/images/cut.png" alt="PCB" width="600">
 </p>
 
 Before closing the case, check that:
