@@ -57,7 +57,7 @@ See the [Audi RNS-E pinout](docs/images/rns-e_pinout.jpg) for the connector refe
 A matching 3D-printable case is included. The case is intended to protect the PCB and make the adapter easier to install in a vehicle or cable harness.
 
 <p align="center">
-  <img src="docs/images/case.png" alt="3D printable case" width="700">
+  <img src="docs/images/case.png" alt="3D printable case" width="1200">
 </p>
 
 The case files are located in:
@@ -124,5 +124,5 @@ The sync-combining logic is based on the original VGA to RGB+CSYNC adapter circu
 The included PCB adapts the concept for an Audi RNS-E RGBS input use case.
 
 <p align="center">
-  <img src="/docs/images/vga2rgbs_ttl.gif" alt="Original Engdahl VGA to RGBS schematic" width="700">
+  <img src="/docs/images/vga2rgbs_ttl.png" alt="Original Engdahl VGA to RGBS schematic" width="1200">
 </p>
