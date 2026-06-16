@@ -1,5 +1,11 @@
 # VGA Sync Combiner for Audi RNS-E, 74HCT86 based
 
+
+<p align="center">
+  <img src="docs/images/pcb.png" alt="PCB" width="700">
+</p>
+
+
 This project contains a small KiCad PCB for converting a VGA-style RGBHV signal into an RGBS signal suitable for the RGB video input of an Audi RNS-E navigation unit.
 
 The board was designed for use with HDMI-to-VGA adapters or similar VGA/RGBHV sources. It passes the red, green and blue video signals through and combines the separate horizontal and vertical sync signals into one composite sync signal.
@@ -9,6 +15,8 @@ The circuit is based on the VGA to RGB+CSYNC adapter by Tomi Engdahl. The PCB is
 ## Purpose
 
 The Audi RNS-E RGB input expects RGBS video, while common VGA sources output RGBHV. This board converts the sync part from RGBHV to RGBS by combining H-Sync and V-Sync into one C-Sync signal. The RGB video lines are routed directly through the PCB.
+
+
 
 ## PCB
 
@@ -28,9 +36,6 @@ Power for the logic IC can be selected by jumper:
 
 The external JST input is intended as an optional 5V supply. Its polarity is marked directly on the PCB. Check polarity before applying power.
 
-<p align="center">
-  <img src="docs/images/pcb.png" alt="PCB" width="700">
-</p>
 
 ## Video Source / HDMI to VGA Adapter
 
