@@ -8,12 +8,12 @@ The case is designed to hold the PCB and protect it during installation or use i
 
 ```text
 3d_print_case/
-├─ vga_sync_combiner_case.3mf
-├─ vga_sync_combiner_case.stl
+├─ vga_sync_combiner_for_rns-e__case.3mf
+├─ vvga_sync_combiner_for_rns-e__case.stl
 └─ 3d_models/
-   ├─ vga_sync_combiner_case.step
-   ├─ vga_sync_combiner_pcb.step
-   └─ vga_sync_combiner_with_all_pcb_parts.step
+   ├─ vga_sync_combiner_for_rns-e.step
+   ├─ vga_sync_combiner_for_rns-e_pcb.step
+   └─ vga_sync_combiner_for_rns-e_with_all_pcb_parts.step
 ```
 
 ## Required Hardware
@@ -21,7 +21,7 @@ The case is designed to hold the PCB and protect it during installation or use i
 | Quantity | Part                  | Notes                |
 | :------- | :-------------------- | :------------------- |
 | 2        | M2 heat-set inserts   | Maximum length: 7 mm |
-| 2        | M2 countersunk screws | Length: 6–13 mm      |
+| 2        | M2 countersunk screws | Length: 8–12 mm      |
 
 ## Optional Light Pipe
 
