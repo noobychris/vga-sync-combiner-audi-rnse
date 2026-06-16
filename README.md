@@ -71,12 +71,13 @@ The case files are located in:
 ├─ kicad_files/
 │  ├─ 3dmodels/
 │  ├─ gerber_to_order/
-│  ├─ vga_sync_combiner_footprints.pretty/
-│  ├─ vga_sync_combiner_symbols.kicad_sym
-│  ├─ vga_sync_combiner_usb-c.csv
-│  ├─ vga_sync_combiner_usb-c.kicad_pro
-│  ├─ vga_sync_combiner_usb-c.kicad_sch
-│  └─ vga_sync_combiner_usb-c.kicad_pcb
+│  ├─ vga_sync_combiner_for_rns-e_footprints_footprints.pretty/
+│  ├─ vga_sync_combiner_for_rns-e_symbols.kicad_sym
+│  ├─ vga_sync_combiner_for_audi_rns-e.csv
+│  ├─ vga_sync_combiner_for_audi_rns-e.kicad_pro
+│  ├─ vga_sync_combiner_for_audi_rns-e.kicad_sch
+│  ├─ vga_sync_combiner_for_audi_rns-e.kicad_pcb
+│  └─ vga_sync_combiner_for_audi_rns-e.kicad_prl
 └─ README.md
 ```
 
@@ -87,17 +88,17 @@ The `kicad_files/gerber_to_order/` folder contains Gerber ZIP exports for orderi
 Available exports:
 
 ```text
-kicad_files/gerber_to_order/vga_sync_combiner_usb-c_31.0x31.0mm_for_Default.zip
-kicad_files/gerber_to_order/vga_sync_combiner_usb-c_31.0x31.0mm_for_Elecrow.zip
-kicad_files/gerber_to_order/vga_sync_combiner_usb-c_31.0x31.0mm_for_FusionPCB.zip
-kicad_files/gerber_to_order/vga_sync_combiner_usb-c_31.0x31.0mm_for_JLCPCB.zip
-kicad_files/gerber_to_order/vga_sync_combiner_usb-c_31.0x31.0mm_for_PCBWay.zip
+kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_Default.zip
+kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_Elecrow.zip
+kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_FusionPCB.zip
+kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_JLCPCB.zip
+kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_PCBWay.zip
 ```
 
 The BOM is located at:
 
 ```text
-kicad_files/vga_sync_combiner_usb-c.csv
+kicad_files/vga_sync_combiner_for_audi_rns-e.csv
 ```
 
 The BOM also includes parts that are not mounted directly on the PCB, such as cables, crimp contacts, connector housings and jumper/shunt parts. It is therefore intended as a complete project BOM, not necessarily as a direct assembly BOM for PCB assembly services.
