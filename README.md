@@ -32,6 +32,15 @@ The external JST input is intended as an optional 5V supply. Its polarity is mar
   <img src="docs/images/pcb.png" alt="PCB" width="700">
 </p>
 
+## Video Source / HDMI to VGA Adapter
+
+The board expects a VGA/RGBHV input signal. When using a Raspberry Pi or similar HDMI source, an HDMI-to-VGA adapter or cable is required.
+
+Depending on the Raspberry Pi version, this may be a full-size HDMI, Mini HDMI or Micro HDMI to VGA adapter/cable.
+
+For the tested setup, a Raspberry Pi with Micro HDMI output was used together with a Twozoh Micro HDMI to VGA cable, 1 m.
+
+Reference: [Twozoh Micro HDMI to VGA cable](https://www.amazon.de/Twozoh-Geflochten-Micro-HDMI-unterst%C3%BCtzt-kompatibel/dp/B0CC9CVRDV)
 
 ## Audi RNS-E Connection
 
