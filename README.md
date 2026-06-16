@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="docs/images/pcb.png" alt="PCB" width="700">
+  <img src="docs/images/pcb.png" alt="PCB" width="1200">
 </p>
 
 
