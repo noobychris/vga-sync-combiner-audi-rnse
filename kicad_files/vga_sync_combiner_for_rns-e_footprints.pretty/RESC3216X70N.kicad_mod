@@ -1,0 +1,330 @@
+(footprint "RESC3216X70N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "ERA8A")
+	(tags "Resistor")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "eac88514-aa2f-4871-9a70-88be355bb278")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+			)
+		)
+	)
+	(property "Value" "2k2"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "33c39be1-78ff-4b5a-a346-853aacd609aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98589977-c664-409a-8e68-24d0405e8c47")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Thin Film Resistors - SMD 1206 680ohm 0.1% 25ppm"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5cf94e9e-5898-4484-91dd-db8866820885")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "667-ERA-8AEB681V"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "148ca971-d729-4468-9e93-4b8f3beee31b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Panasonic"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ff2bc8c-2d98-42dd-b74c-a08c4cd13971")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ERA-8AEB681V"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "71cefbfd-9cec-47bc-91c3-845615a35c08")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32f2dda7-538b-4fbb-ac82-929db25b88d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Optional" "No"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d881255a-3410-4d84-a3db-74ba1f80a568")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0,19 €"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e93b76a-d7f9-4880-9b7c-b426f0416237")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://mou.sr/4n2RMou"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f48427c-6308-4dfb-90e4-20fbda830346")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Stock" "10.460"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "181f721a-ac5a-4f1c-bdb8-e40310a2dce3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f3424da9-b2da-4256-8967-6a299c509e0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Alternative Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccf0f147-44b4-4446-800b-4cc30e46cb54")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.7"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33daac2f-63bf-48f2-a69a-6a5dbe18b66d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERA-8AEB681V?qs=Ojoo2rCVP9TaIYMzTFOQpg%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7d26d01-72b4-408d-9a40-473178c86945")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "vga_sync_combiner_usb-c.kicad_sch")
+	(attr smd dnp)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 2.325 1.1)
+		(end -2.325 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c495ec7f-7603-43c4-b2f5-4f82ab7c213d")
+	)
+	(fp_line
+		(start 2.325 -1.1)
+		(end 2.325 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f24c8a82-f7d6-4485-8539-fad7dd0ae53d")
+	)
+	(fp_line
+		(start -2.325 1.1)
+		(end -2.325 -1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bc8a013f-9225-4463-bc58-db03f9fc0c4d")
+	)
+	(fp_line
+		(start -2.325 -1.1)
+		(end 2.325 -1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b4253351-d0f6-4132-884a-3844c611d319")
+	)
+	(fp_line
+		(start 1.6 0.775)
+		(end -1.6 0.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "216506cb-97cc-4131-a251-d87bf5902fe1")
+	)
+	(fp_line
+		(start 1.6 -0.775)
+		(end 1.6 0.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f8ae78b2-595d-4412-898e-2cca9b47420c")
+	)
+	(fp_line
+		(start -1.6 0.775)
+		(end -1.6 -0.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a3ec2e4d-ba9e-4697-b2e3-9d5638c55cd4")
+	)
+	(fp_line
+		(start -1.6 -0.775)
+		(end 1.6 -0.775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6fb67eca-52ae-4e25-90c8-f51f3ddbf135")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "57952dcc-6d09-4af5-a05e-b8de76d58af1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.5 0 180)
+		(size 1.15 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "812b0775-5751-490e-a8b0-e0080b51dcf0")
+	)
+	(pad "2" smd rect
+		(at 1.5 0 180)
+		(size 1.15 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "14fca92b-675b-452f-8720-b074f612f1a1")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/ERA-8AEB681V.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

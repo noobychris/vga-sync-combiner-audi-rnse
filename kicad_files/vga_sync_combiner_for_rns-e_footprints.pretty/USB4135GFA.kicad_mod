@@ -1,0 +1,487 @@
+(footprint "USB4135GFA"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "USB4135-GF-A-1")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 0 -0.102 0)
+		(layer "F.SilkS")
+		(uuid "10d6a160-0ea4-4e22-94e4-126f54864ec7")
+		(effects
+			(font
+				(face "Nimbus Sans")
+				(size 1.6 1.6)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+		(render_cache "REF**" 0
+			(polygon
+				(pts
+					(xy 152.068866 92.506827) (xy 152.154379 92.529212) (xy 152.225092 92.564404) (xy 152.283531 92.612143)
+					(xy 152.336141 92.678282) (xy 152.37413 92.754158) (xy 152.397755 92.841642) (xy 152.406044 92.943238)
+					(xy 152.397784 93.040059) (xy 152.374331 93.122448) (xy 152.336678 93.193079) (xy 152.284443 93.25389)
+					(xy 152.215915 93.305911) (xy 152.128193 93.34917) (xy 152.221738 93.394452) (xy 152.276399 93.437195)
+					(xy 152.313021 93.49102) (xy 152.33492 93.563517) (xy 152.345094 93.67097) (xy 152.355729 93.941996)
+					(xy 152.360963 93.99302) (xy 152.372143 94.025136) (xy 152.392487 94.050768) (xy 152.427928 94.07545)
+					(xy 152.427928 94.137) (xy 152.065862 94.137) (xy 152.040007 94.078692) (xy 152.025904 94.026113)
+					(xy 152.019408 93.965371) (xy 152.016623 93.856902) (xy 152.017795 93.74709) (xy 152.01887 93.681145)
+					(xy 152.010798 93.606062) (xy 151.99044 93.559219) (xy 151.94997 93.520722) (xy 151.892247 93.49598)
+					(xy 151.811068 93.486727) (xy 151.426044 93.486727) (xy 151.426044 94.137) (xy 151.090258 94.137)
+					(xy 151.090258 93.211612) (xy 151.426044 93.211612) (xy 151.830705 93.211612) (xy 151.899673 93.208831)
+					(xy 151.942764 93.202038) (xy 151.979286 93.188549) (xy 152.010077 93.167746) (xy 152.041586 93.127481)
+					(xy 152.062393 93.069883) (xy 152.070258 92.988863) (xy 152.062343 92.911824) (xy 152.041273 92.856694)
+					(xy 152.009002 92.817795) (xy 151.976574 92.796034) (xy 151.941201 92.782917) (xy 151.899477 92.776564)
+					(xy 151.830705 92.773929) (xy 151.426044 92.773929) (xy 151.426044 93.211612) (xy 151.090258 93.211612)
+					(xy 151.090258 92.498814) (xy 151.965234 92.498814)
+				)
+			)
+			(polygon
+				(pts
+					(xy 153.040196 93.430454) (xy 153.040196 93.861884) (xy 153.925039 93.861884) (xy 153.925039 94.137)
+					(xy 152.704411 94.137) (xy 152.704411 92.498814) (xy 153.884494 92.498814) (xy 153.884494 92.773929)
+					(xy 153.040196 92.773929) (xy 153.040196 93.155339) (xy 153.822164 93.155339) (xy 153.822164 93.430454)
+				)
+			)
+			(polygon
+				(pts
+					(xy 154.522066 93.430454) (xy 154.522066 94.137) (xy 154.186281 94.137) (xy 154.186281 92.498814)
+					(xy 155.333636 92.498814) (xy 155.333636 92.773929) (xy 154.522066 92.773929) (xy 154.522066 93.155339)
+					(xy 155.237307 93.155339) (xy 155.237307 93.430454)
+				)
+			)
+			(polygon
+				(pts
+					(xy 155.682024 92.915785) (xy 155.439149 92.834599) (xy 155.488388 92.678772) (xy 155.731166 92.759958)
+					(xy 155.731166 92.498814) (xy 155.891975 92.498814) (xy 155.891975 92.759958) (xy 156.134753 92.678772)
+					(xy 156.185067 92.834599) (xy 155.941214 92.915785) (xy 156.092157 93.12642) (xy 155.962024 93.222945)
+					(xy 155.812157 93.011333) (xy 155.661214 93.222945) (xy 155.531082 93.12642)
+				)
+			)
+			(polygon
+				(pts
+					(xy 156.552701 92.915785) (xy 156.309826 92.834599) (xy 156.359065 92.678772) (xy 156.601843 92.759958)
+					(xy 156.601843 92.498814) (xy 156.762652 92.498814) (xy 156.762652 92.759958) (xy 157.005429 92.678772)
+					(xy 157.055743 92.834599) (xy 156.811891 92.915785) (xy 156.962833 93.12642) (xy 156.832701 93.222945)
+					(xy 156.682833 93.011333) (xy 156.531891 93.222945) (xy 156.401759 93.12642)
+				)
+			)
+		)
+	)
+	(property "Value" "USB-C"
+		(at 0 -0.102 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a0432cdd-a99e-4ea5-9852-dd30dfd8016d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.com/catalog/specsheets/GCT_USb4135_Product_Drawing.pdf?_gl=1*wefdt*_gcl_aw*R0NMLjE3NzgzNTU2ODAuQ2p3S0NBand0dnZQQmhCdUVpd0FQTWlqcjRzVWJjTzVNbXlid2ttd2NLRi1VTEQ1SGJOamFKbXVYclZYcTBYY3lLNGM1S0h3dTJ6WlVSb0NpeVlRQXZEX0J3RQ..*_gcl_au*MTA4NzcxMzEzMS4xNzc3MzIzNDkzLjgxNDEyNzI3Mi4xNzc4MzU5MzA3LjE3NzgzNjEwMjM.*_ga*NTc5MjQ2MTYuMTc3NzMyMzQ5Mw..*_ga_15W4STQT4T*czE3NzgzNTQ2OTkkbzEyJGcxJHQxNzc4MzYxMDI1JGo0NSRsMCRoMA.."
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ebd972e-c9db-4204-9978-384ef235947b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "GCT USB Type-C Receptacle, Power-Only, Right Angle SMD, USB4135-GF-A"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73c97139-4729-4f31-9503-5b5253f39972")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "640-USB4135-GF-A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc3999c2-2940-4364-b14c-55de075cebd7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "GCT (GLOBAL CONNECTOR TECHNOLOGY)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a7d3276-698a-43b8-90e5-48422525451a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "USB4135-GF-A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0f5fb1a7-1c0f-47f2-8f55-8c2ed1285261")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ef261a84-cec9-4d95-a0d6-f8cd62ec63c1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Optional" "No"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af627180-c8a4-4db6-91d5-8eb5cd3288cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0,55 €"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d2e40cc-07ba-4d33-bd05-2e7b4d85688e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://mou.sr/3J7hTfS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23762359-8246-4e04-889b-9e1d8c0bf0ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Stock" "10.324"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e522dea5-b404-4ed8-ba59-5aec5112556a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "3.5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8339efd8-8ccb-449b-98cd-4c97784a1f5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/GCT/USB4135-GF-A?qs=Li%252BoUPsLEnt6HRo6RUvaXA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "916495e1-c6fb-4894-8d7d-11236392440e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "USB-C RA SMD Power-Only"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42ad536d-dfa8-4fcb-9173-c67f5565def0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Alternative Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58f08ef5-0aee-409f-b037-851c8cb7befe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Length" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd77a09b-86f7-4ac5-8373-fbb4bbc259b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "vga_sync_combiner_usb-c.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.5 -5)
+		(end -0.5 -5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "91a60071-2536-460d-a451-2718974ee7cd")
+	)
+	(fp_line
+		(start -0.5 -4.9)
+		(end -0.5 -4.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ddd2806-5c80-4db7-b978-b6fe833af641")
+	)
+	(fp_arc
+		(start -0.5 -5)
+		(mid -0.45 -4.95)
+		(end -0.5 -4.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0adfe7a5-1888-4ac9-9bca-50e17d48b94f")
+	)
+	(fp_arc
+		(start -0.5 -4.9)
+		(mid -0.55 -4.95)
+		(end -0.5 -5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a446a2d7-8ec0-42de-ac6f-e57e98f3cecb")
+	)
+	(fp_line
+		(start -7.025 -4.655)
+		(end 7.025 -4.655)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "486b6268-23c8-4253-89fa-93457edac96b")
+	)
+	(fp_line
+		(start -7.025 4.45)
+		(end -7.025 -4.655)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5b283efe-c21c-43f8-af37-6783e2ba5acf")
+	)
+	(fp_line
+		(start 7.025 -4.655)
+		(end 7.025 4.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c3fd67aa-ca83-4016-a48d-f639050fb21b")
+	)
+	(fp_line
+		(start 7.025 4.45)
+		(end -7.025 4.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "92ee31e1-9e51-42b6-b168-104862ace1e3")
+	)
+	(fp_line
+		(start -4.47 -3.45)
+		(end -4.47 3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0ade3cb-a738-4b60-9055-975fd04573d0")
+	)
+	(fp_line
+		(start -4.47 3.45)
+		(end 4.47 3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5594d726-43fd-4c92-86ff-be5d2bc11b74")
+	)
+	(fp_line
+		(start 4.47 -3.45)
+		(end -4.47 -3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "31b30ddb-4ccd-427b-aec3-965d56caf7b0")
+	)
+	(fp_line
+		(start 4.47 3.45)
+		(end 4.47 -3.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a1b02d96-b174-459c-b1d0-ceb5987b5959")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.102 0)
+		(layer "F.Fab")
+		(uuid "a87f55e0-c69c-42ab-a0e0-45338a6fa920")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "A5" smd rect
+		(at -0.5 -3.3025)
+		(size 0.7 1.695)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bc1af075-fd71-4972-89a2-8d989ef82cb0")
+	)
+	(pad "A9" smd rect
+		(at 1.495 -3.3025)
+		(size 0.71 1.695)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8d1c298e-6d6e-4aca-b5f6-bb15689fefbc")
+	)
+	(pad "A12" smd rect
+		(at 2.775 -3.3025)
+		(size 0.85 1.695)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d7fec759-eda8-40d6-af38-cc55b6069798")
+	)
+	(pad "B5" smd rect
+		(at 0.5 -3.3025)
+		(size 0.7 1.695)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6b464dfb-15ac-423c-8133-7dee997c5a53")
+	)
+	(pad "B9" smd rect
+		(at -1.525 -3.3025)
+		(size 0.75 1.695)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6f79bd90-33a1-4c8c-b5f3-adaca960bbb5")
+	)
+	(pad "B12" smd rect
+		(at -2.75 -3.3025)
+		(size 0.8 1.695)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d2554484-77fe-4f7a-977a-cc3ee4816ab8")
+	)
+	(pad "MP1" smd rect
+		(at -5.125 -2.98 90)
+		(size 1.35 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9c651877-aa8e-4ba8-8d47-397de6cc3dc3")
+	)
+	(pad "MP2" smd rect
+		(at 5.125 -2.98 90)
+		(size 1.35 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5f299513-e50c-4a9a-b384-dfaa3fde7b2c")
+	)
+	(pad "MP3" smd rect
+		(at -5.125 0.6 90)
+		(size 1.5 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6d566f2e-1218-4b1a-87f6-e234df4be610")
+	)
+	(pad "MP4" smd rect
+		(at 5.125 0.6 90)
+		(size 1.5 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f25c51d2-713a-4c7b-93f5-c37c1636b752")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/USB4135-GF-A.stp"
+		(offset
+			(xyz -0.009999999626 -3.349999854 0.01999999925)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

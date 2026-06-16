@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "vga_sync_combiner_for_rns-e_symbols") (type "KiCad") (uri "${KIPRJMOD}/vga_sync_combiner_for_rns-e_symbols.kicad_sym") (options "") (descr ""))
+)

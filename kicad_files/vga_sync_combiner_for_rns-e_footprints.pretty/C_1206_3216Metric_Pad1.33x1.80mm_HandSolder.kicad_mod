@@ -1,0 +1,601 @@
+(footprint "C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+	(tags "capacitor handsolder")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "74582b6e-bbd9-4997-8f39-7e6692942b4d")
+		(effects
+			(font
+				(face "Nimbus Sans Narrow")
+				(size 1.2 1.2)
+				(thickness 0.2)
+				(bold yes)
+			)
+		)
+		(render_cache "REF**" 0
+			(polygon
+				(pts
+					(xy 139.236853 100.917427) (xy 139.298754 100.936669) (xy 139.350906 100.967539) (xy 139.39494 101.010562)
+					(xy 139.429114 101.061594) (xy 139.45385 101.118726) (xy 139.469178 101.183052) (xy 139.474515 101.255953)
+					(xy 139.469851 101.32505) (xy 139.456711 101.383689) (xy 139.435973 101.433566) (xy 139.406209 101.478133)
+					(xy 139.368505 101.514816) (xy 139.32196 101.544282) (xy 139.366179 101.572227) (xy 139.392083 101.594693)
+					(xy 139.410966 101.62093) (xy 139.426154 101.656609) (xy 139.436812 101.700739) (xy 139.443374 101.752523)
+					(xy 139.447477 101.940175) (xy 139.450136 102.009819) (xy 139.45605 102.044735) (xy 139.469261 102.070194)
+					(xy 139.491734 102.088553) (xy 139.491734 102.1205) (xy 139.262903 102.1205) (xy 139.247367 102.020268)
+					(xy 139.240774 101.878259) (xy 139.236692 101.785511) (xy 139.228142 101.73215) (xy 139.217766 101.704749)
+					(xy 139.191948 101.677439) (xy 139.148448 101.658891) (xy 139.079134 101.651553) (xy 138.865031 101.651553)
+					(xy 138.865031 102.1205) (xy 138.663237 102.1205) (xy 138.663237 101.445217) (xy 138.865031 101.445217)
+					(xy 139.107857 101.445217) (xy 139.161113 101.440152) (xy 139.20029 101.426573) (xy 139.228831 101.405796)
+					(xy 139.249299 101.376945) (xy 139.262766 101.336996) (xy 139.267812 101.282331) (xy 139.260922 101.217978)
+					(xy 139.24275 101.173246) (xy 139.215012 101.142803) (xy 139.176499 101.123894) (xy 139.123391 101.116954)
+					(xy 138.865031 101.116954) (xy 138.865031 101.445217) (xy 138.663237 101.445217) (xy 138.663237 100.910618)
+					(xy 139.162812 100.910618)
+				)
+			)
+			(polygon
+				(pts
+					(xy 140.385003 100.910618) (xy 140.385003 101.126333) (xy 139.859197 101.126333) (xy 139.859197 101.379564)
+					(xy 140.343164 101.379564) (xy 140.343164 101.59528) (xy 139.859197 101.59528) (xy 139.859197 101.904784)
+					(xy 140.408011 101.904784) (xy 140.408011 102.1205) (xy 139.657404 102.1205) (xy 139.657404 100.910618)
+				)
+			)
+			(polygon
+				(pts
+					(xy 140.782069 101.614038) (xy 140.782069 102.1205) (xy 140.575366 102.1205) (xy 140.575366 100.910618)
+					(xy 141.279152 100.910618) (xy 141.279152 101.126333) (xy 140.782069 101.126333) (xy 140.782069 101.398322)
+					(xy 141.21687 101.398322) (xy 141.21687 101.614038)
+				)
+			)
+			(polygon
+				(pts
+					(xy 141.776894 101.053867) (xy 141.810526 101.177258) (xy 141.666106 101.230821) (xy 141.759675 101.394585)
+					(xy 141.674312 101.468591) (xy 141.58001 101.314718) (xy 141.484829 101.468591) (xy 141.398733 101.394585)
+					(xy 141.491423 101.230821) (xy 141.348688 101.177258) (xy 141.380635 101.053867) (xy 141.521758 101.111459)
+					(xy 141.521758 100.910618) (xy 141.637456 100.910618) (xy 141.637456 101.111459)
+				)
+			)
+			(polygon
+				(pts
+					(xy 142.311493 101.053867) (xy 142.345125 101.177258) (xy 142.200704 101.230821) (xy 142.294274 101.394585)
+					(xy 142.208911 101.468591) (xy 142.114609 101.314718) (xy 142.019427 101.468591) (xy 141.933332 101.394585)
+					(xy 142.026022 101.230821) (xy 141.883286 101.177258) (xy 141.915233 101.053867) (xy 142.056357 101.111459)
+					(xy 142.056357 100.910618) (xy 142.172055 100.910618) (xy 142.172055 101.111459)
+				)
+			)
+		)
+	)
+	(property "Value" "22uF"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2682a10f-024e-4a32-b163-bd185f6563f7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.de/datasheet/3/72/1/C1206C226M4PACTU.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3016f7ee-4b9e-4d46-a9cd-689ac91fc459")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "22µF 16V X5R MLCC, 1206, non-polarized. +5V_LOAD bulk / input buffer capacitor after power-source jumper."
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2ecdc11-f4f6-4201-8b3d-0553fc241b2e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7da2c66-0451-4d2d-b051-927bb0a97072")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "80-C1206C226M4P"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3b80e4b1-47d5-440c-a942-3b99d03a67fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "311b14b8-00a5-442f-a756-82161a17e402")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "KEMET"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98080f07-2886-4a3b-b472-fd3b4e9da411")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "C1206C226M4PACTU"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89c42767-c908-4fd5-aa98-78d57208c93c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0,58 €"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52783afc-9882-42b9-9d71-f9e23434bcf8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7dc32377-4ab2-4c0a-b3c0-6096be34b843")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://mou.sr/4tZFwct"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e0d2b085-d678-4381-9fdb-8e4ddbbb4d13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2373214b-8e75-4c5b-9d65-ea1cafb7e73b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Comment" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24660d78-c9fa-4865-ae8a-342cfeffb26b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8cc0c1a4-f9b0-4838-b7ff-87ef7530b7d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "EU_RoHS_Compliance" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d828983f-b281-4e89-b763-3c5bf585c9da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f685d261-18c3-442f-8d54-ef715e465606")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d63eb6b-0cb5-4435-a9c1-ef334c67d31c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "344d334c-a5ce-4840-bc6e-9531548d98b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23f2f130-9c29-4b0d-a923-07dfca4f492e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "1206"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "600b7fe1-0cf8-4b45-b23b-5740ced46e98")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8a7cd0b-8a2f-43d4-b04a-fcaf116c8d71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fa554422-684d-4868-a1cf-f8d46eb89138")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field8" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7731044-9f73-4759-9c1f-d2fcf7764179")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2ae32f0-55ea-4b50-9859-e4616fbaebee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Optional" "No"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80b2d025-2862-4872-9345-424c3331d7c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Stock" "12.736"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6d6b01bc-53db-4348-b38c-f95f79ee8f93")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Alternative Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d30c9c3-fb7a-47f3-91a2-c8b8223bc41d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Length" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "46d2d56f-b645-4170-8cdb-6be8e4349c50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "vga_sync_combiner_usb-c.kicad_sch")
+	(zone_connect 1)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.711252 0.91)
+		(end 0.711252 0.91)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "04188f8c-2ed2-46e7-a76e-23f7e72b6d33")
+	)
+	(fp_line
+		(start -0.711252 -0.91)
+		(end 0.711252 -0.91)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "474c1138-4dfc-48f3-adfe-c54aad872960")
+	)
+	(fp_line
+		(start 2.48 1.15)
+		(end -2.48 1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "363c7304-3d1f-4f4f-a8bb-a24eec95ffd2")
+	)
+	(fp_line
+		(start 2.48 -1.15)
+		(end 2.48 1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d216d92-8759-435c-ba43-7246637f6725")
+	)
+	(fp_line
+		(start -2.48 1.15)
+		(end -2.48 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "776c09ee-e9f1-4b22-8c60-3ef4ce43d1c2")
+	)
+	(fp_line
+		(start -2.48 -1.15)
+		(end 2.48 -1.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4291e562-efca-4605-89b7-d7209973021e")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1cfa3e86-5b15-4149-b6e5-8e98a363b657")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2d7a56f2-ca6d-4671-93b3-f12f0390e57b")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "85b4b163-95e9-4a77-8f34-4c50d36527f3")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d5956423-2245-41e6-8e0f-24585dfb83b5")
+	)
+	(fp_text user "-"
+		(at 1.5575 -1.71 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1ee50c2c-811d-4a76-b8d3-3ffd42abf935")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "+"
+		(at -1.5925 -1.71 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a67dfc18-a8ca-4107-9e35-7fa94177ad5e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "cd30858e-05d3-4f3f-ab3f-d0c9115a1abf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.5625 0 180)
+		(size 1.325 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.188679)
+		(zone_connect 1)
+		(uuid "4d5d0fd1-24c6-4a79-a46d-4f2f7a0ea586")
+	)
+	(pad "2" smd roundrect
+		(at 1.5625 0 180)
+		(size 1.325 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.188679)
+		(zone_connect 1)
+		(uuid "fbcd2aae-1fa1-4345-af43-6fc5d74f6f74")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/C1206C226M4PACTU.stp"
+		(offset
+			(xyz -1.570000029 -0.8999999626 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

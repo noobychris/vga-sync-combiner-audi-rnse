@@ -1,0 +1,363 @@
+(footprint "ERA8KEB1004V"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "ERA8K/V")
+	(tags "Resistor")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "5bd8dcbf-fda8-487d-ba4f-43293f26ac6e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.25)
+			)
+		)
+	)
+	(property "Value" "680 Ω"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4de3c5aa-655e-4525-8fe4-9fd14cf4d3d8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c290862e-9747-46fa-bd04-04bd6d88fb25")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Series/Type: Thin Film Chip Resistors, High Stability and Reliability Type, Power Rating (W): 0.25, Chip Size (LxW(EIA)) (mm): 3.2 x 1.6 (EIA:1206), Resistance Values (): 680, Resistance Tolerance (%): 0.1, T.C.R (10/K): +/-25"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d64645e0-d52a-4f43-b76f-ecf0875c7917")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "667-ERJ-8ENF6800V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf95a687-afed-43f7-9846-4f3ef3a56b4e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "918c3ce8-17c1-4164-9290-6cee581c0140")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ERA-8VEB6800V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c26ed15f-6ca1-4062-b4d4-5bfd5def094a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0816a698-42a3-4d97-b1d3-327293fd30f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Optional" "No"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aea3fd00-51a4-4b73-a141-006d3112f2fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0,12 €"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b7ddb0b-d055-4491-b5dc-b888690dcf3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://mou.sr/4o2re7u"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eaf7dbe8-b44b-4f4f-bf23-3c1be70f20e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Stock" "8.179"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14c66cbe-f2f8-4e39-b71d-e37a2d8220f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.65"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f2437689-1b6f-42ee-8cc3-c6376fe6c3f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d00ddf5-978a-4b80-8a6d-07ca2c640047")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.8 -0.1)
+		(end -2.8 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1bc9de0b-f188-4528-b9cd-e1229d8059e8")
+	)
+	(fp_line
+		(start -2.8 0.1)
+		(end -2.8 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a298e59f-4bcc-4d72-ae8b-42555ef07ae4")
+	)
+	(fp_line
+		(start -0.9 -0.8)
+		(end 0.9 -0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bddb7b71-4369-44d3-9433-cc26c9a2e3b7")
+	)
+	(fp_line
+		(start -0.9 0.8)
+		(end 0.9 0.8)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e50e2bb6-4fd4-4c95-ae2a-978797da2f93")
+	)
+	(fp_arc
+		(start -2.8 -0.1)
+		(mid -2.7 0)
+		(end -2.8 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "23b024cc-9f0d-41cd-b0fa-fc1dac748d8e")
+	)
+	(fp_arc
+		(start -2.8 0.1)
+		(mid -2.9 0)
+		(end -2.8 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "34bd807b-387d-44a0-b704-d33112666dce")
+	)
+	(fp_line
+		(start -3.35 -1.8)
+		(end 3.35 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ab5f024e-2767-46e5-92bd-6662154ad820")
+	)
+	(fp_line
+		(start -3.35 1.8)
+		(end -3.35 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "26bc8b8b-3700-427d-a1b3-5d0d37d43bd6")
+	)
+	(fp_line
+		(start 3.35 -1.8)
+		(end 3.35 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1dffb2ad-6336-4097-a5ce-571655289442")
+	)
+	(fp_line
+		(start 3.35 1.8)
+		(end -3.35 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b64acf4d-2b08-4559-b055-6f51a7af98f8")
+	)
+	(fp_line
+		(start -1.6 -0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "79495578-a5cc-4990-b6ec-edf8db5284d1")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end -1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a66240bf-e90f-4695-b08c-2c5d97d40457")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8e59783e-dbe4-4a0e-b897-189c0c8defba")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5ee56c92-d6db-481c-89ed-0140e622411a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "56dee134-c7c9-4c04-b944-c83ccf1f12e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.725 0)
+		(size 1.25 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8f3eb429-e5d8-40c0-8943-378bd26459e4")
+	)
+	(pad "2" smd rect
+		(at 1.725 0)
+		(size 1.25 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3f8a28b4-43ee-4097-b5ab-f25dd0fe3a38")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/ERA-8AEB681V.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
