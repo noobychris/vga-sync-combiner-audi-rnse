@@ -1,4 +1,4 @@
-# VGA RGBHV to RGBS / C-Sync Combiner for Audi RNS-E
+# VGA Sync Combiner for Audi RNS-E, 74HCT86 based
 
 This project contains a small KiCad PCB for converting a VGA-style RGBHV signal into an RGBS signal suitable for the RGB video input of an Audi RNS-E navigation unit.
 
