@@ -1,5 +1,10 @@
 # 3D Printed Case
 
+<p align="center">
+  <img src="/docs/images/case.png" alt="3D printable case" width="1200">
+</p>
+
+
 This folder contains a 3D-printable case for the VGA RGBHV to RGBS / C-Sync Combiner PCB.
 
 The case is designed to hold the PCB and protect it during installation or use in a cable harness. It uses two M2 heat-set inserts and two M2 countersunk screws to close the case.
