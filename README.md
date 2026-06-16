@@ -120,7 +120,8 @@ The original Engdahl circuit is a TTL-level sync combiner. This PCB keeps the 74
 
 ## Credits
 
-The sync-combining logic is based on the original VGA to RGB+CSYNC adapter circuit by Tomi Engdahl, 1993-1996.
+The sync-combining logic is based on the original [VGA to RGB + composite sync converter](https://www.epanorama.net/circuits/vga2rgbs.html) circuit by Tomi Engdahl, 1993–1996.
+
 The included PCB adapts the concept for an Audi RNS-E RGBS input use case.
 
 <p align="center">
