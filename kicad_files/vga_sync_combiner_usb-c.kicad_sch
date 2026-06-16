@@ -5,7 +5,7 @@
 	(uuid "32a79fbd-93c1-4952-b3fe-09eb774b1b9a")
 	(paper "A3")
 	(title_block
-		(title "VGA (RGBHV) → RGBS / C-Sync Combiner, 74HCT86 based")
+		(title "VGA Sync Combiner for Audi RNS-E, 74HCT86 based")
 		(date "2026-06-15")
 		(rev "1.0")
 		(company "-")
@@ -6396,9 +6396,9 @@
 		)
 		(uuid "407d2a8c-a9f6-4c0d-81e0-2b24cd008b2e")
 	)
-	(text "VGA (RGBHV) → RGBS / C-Sync Combiner, 74HCT86 based"
+	(text "VGA Sync Combiner for Audi RNS-E, 74HCT86 based"
 		(exclude_from_sim no)
-		(at 160.02 27.94 0)
+		(at 146.558 28.448 0)
 		(effects
 			(font
 				(size 6 6)
