@@ -71,7 +71,7 @@ The case files are located in:
 ├─ kicad_files/
 │  ├─ 3dmodels/
 │  ├─ gerber_to_order/
-│  ├─ vga_sync_combiner_for_rns-e_footprints_footprints.pretty/
+│  ├─ vga_sync_combiner_for_rns-e_footprints.pretty/
 │  ├─ vga_sync_combiner_for_rns-e_symbols.kicad_sym
 │  ├─ vga_sync_combiner_for_audi_rns-e.csv
 │  ├─ vga_sync_combiner_for_audi_rns-e.kicad_pro
