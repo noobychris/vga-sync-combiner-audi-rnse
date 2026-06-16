@@ -17,7 +17,6 @@ The circuit is based on the VGA to RGB+CSYNC adapter by Tomi Engdahl. The PCB is
 The Audi RNS-E RGB input expects RGBS video, while common VGA sources output RGBHV. This board converts the sync part from RGBHV to RGBS by combining H-Sync and V-Sync into one C-Sync signal. The RGB video lines are routed directly through the PCB.
 
 
-
 ## PCB
 
 The PCB is designed to be hand-solder friendly. It uses larger SMD packages where practical, mainly 1206 passives and an SOIC-14 logic IC. The layout is intended for manual assembly rather than automated production.
