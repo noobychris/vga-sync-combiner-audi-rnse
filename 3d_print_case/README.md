@@ -14,8 +14,8 @@ For vehicle use, ABS or ASA is preferred because of the higher temperature resis
 
 ```text
 3d_print_case/
-├─ vga_sync_combiner_for_rns-e__case.3mf
-├─ vvga_sync_combiner_for_rns-e__case.stl
+├─ vga_sync_combiner_for_rns-e_case.3mf
+├─ vvga_sync_combiner_for_rns-e_case.stl
 └─ 3d_models/
    ├─ vga_sync_combiner_for_rns-e.step
    ├─ vga_sync_combiner_for_rns-e_pcb.step
