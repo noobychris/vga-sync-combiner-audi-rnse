@@ -1,0 +1,415 @@
+(footprint "473461001"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "47346-0001_1")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "575e1f4e-06b7-4c38-b4a8-525813fa50aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "MICRO_USB_PWR"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e645579b-9a9d-4eee-9339-578b65675d59")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.molex.com/webdocs/datasheets/pdf/en-us/0473461001_IO_CONNECTORS.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a380699-cd0d-42ff-a659-ca419fcca5d6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "MOLEX - 47346-1001 - MULTIPOLE CONNECTOR"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "978db17a-4572-442a-88dd-542c50cec034")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83a68052-787f-46ab-8063-882c76942ed8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "538-47346-1001"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54485b03-8148-42bd-bc5c-6d2de67e9283")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d40bb787-ab21-4f98-a093-6e1bd163026d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Molex"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a1afb87-dad5-46f7-b75a-8dc7503ce126")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "47346-1001"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a90a8ff0-3e5d-4f89-b59a-cf28a067392d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "561e3741-6b8f-4ca6-9a1f-19bef202ca8f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Optional" "No"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c2b4efc-a50b-4f4a-8756-bda166482971")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0,55 €"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f0ceaf2-1f1f-4ce0-81cf-397fea2aa286")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://mou.sr/4nXkdFi"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4816a40d-2218-498c-9479-ee9065022adb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Stock" "10.324"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5e6b8f1-40e0-4eff-9fd5-7ee0ca81da53")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.75 -2.094)
+		(end -3.75 -0.467)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "162263f0-63fe-4646-a7e2-209173385060")
+	)
+	(fp_line
+		(start -1.3 -3.1)
+		(end -1.3 -3.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4443d644-8be0-486f-93b5-cf64eb8dbdb3")
+	)
+	(fp_line
+		(start -1.3 -2.9)
+		(end -1.3 -2.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e7e1ca0-b579-48d1-999a-5a5256fe931e")
+	)
+	(fp_line
+		(start 3.75 -2.094)
+		(end 3.75 -0.467)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ba88cac5-dc27-461e-b18f-3be7172192c2")
+	)
+	(fp_line
+		(start 3.75 2.906)
+		(end -3.75 2.906)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f7b8b72-2163-4615-b904-8c29500eaf53")
+	)
+	(fp_arc
+		(start -1.3 -3.1)
+		(mid -1.2 -3)
+		(end -1.3 -2.9)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b6637164-2078-40a0-97e6-6853cc9d2ef0")
+	)
+	(fp_arc
+		(start -1.3 -2.9)
+		(mid -1.4 -3)
+		(end -1.3 -3.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64be3036-7990-49be-9c61-356d3d2f0bb4")
+	)
+	(fp_line
+		(start -5.1 -3.906)
+		(end 5.1 -3.906)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ae67115f-4a41-45ec-b737-0cb527c07a3f")
+	)
+	(fp_line
+		(start -5.1 3.906)
+		(end -5.1 -3.906)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e0b89821-82c6-4efb-b045-febbad4fe8e5")
+	)
+	(fp_line
+		(start 5.1 -3.906)
+		(end 5.1 3.906)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9c33681b-6771-4f92-910e-837966e983ef")
+	)
+	(fp_line
+		(start 5.1 3.906)
+		(end -5.1 3.906)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "27a9839f-4e34-4f76-aad7-467b784f9537")
+	)
+	(fp_line
+		(start -3.75 -2.094)
+		(end 3.75 -2.094)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ebf8a26-1b64-4aee-8bc8-0d304c498bdb")
+	)
+	(fp_line
+		(start -3.75 2.906)
+		(end -3.75 -2.094)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5270c424-7886-4026-8472-a6b5372c1664")
+	)
+	(fp_line
+		(start 3.75 -2.094)
+		(end 3.75 2.906)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f8baf804-2805-49ae-af3f-bc615e4e5f45")
+	)
+	(fp_line
+		(start 3.75 2.906)
+		(end -3.75 2.906)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c3dd47fc-02da-4e09-844c-f048a4c6548c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d07e2ffc-c3a6-4c9c-91cb-878bc2183d3d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.3 -1.903)
+		(size 0.45 1.38)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "46f202b9-b1d1-43d8-8423-a62057c63ac9")
+	)
+	(pad "2" smd rect
+		(at -0.65 -1.903)
+		(size 0.45 1.38)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "40b458ad-ca11-4833-8bb4-665efa761507")
+	)
+	(pad "3" smd rect
+		(at 0 -1.903)
+		(size 0.45 1.38)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "13898501-b06b-49b5-adbf-3f2a4c8c3bdc")
+	)
+	(pad "4" smd rect
+		(at 0.65 -1.903)
+		(size 0.45 1.38)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8510ae43-2f70-4d85-a80b-971885ef84ab")
+	)
+	(pad "5" smd rect
+		(at 1.3 -1.903)
+		(size 0.45 1.38)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f5d50b0f-3e99-4932-8ccc-0654ab00730e")
+	)
+	(pad "6" smd rect
+		(at 2.487 -1.544)
+		(size 1.425 2.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e5156579-c3fc-4cab-aee8-a427d63278ff")
+	)
+	(pad "7" smd rect
+		(at -2.487 -1.544)
+		(size 1.425 2.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b813e402-d0b3-4694-a4bb-52fb22ca58f1")
+	)
+	(pad "10" smd rect
+		(at -3.375 0.756 90)
+		(size 1.3 1.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "22a48ba4-e580-4321-b068-e3e92a58f7e3")
+	)
+	(pad "11" smd rect
+		(at 3.375 0.756 90)
+		(size 1.3 1.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5429f6ab-e72c-4194-92ed-5ce27ab2d675")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/47346-1001.stp"
+		(offset
+			(xyz 0 -0.4999999925 1.259999972)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
