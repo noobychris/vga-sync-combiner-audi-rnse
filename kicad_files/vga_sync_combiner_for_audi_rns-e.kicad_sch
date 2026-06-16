@@ -9026,6 +9026,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 101.6 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ddd9f7d5-0cf8-43b2-9131-a8e8fffdcb5b")
 		)
@@ -9197,6 +9208,17 @@
 		)
 		(property "Length" ""
 			(at 116.84 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
+			(at 116.84 134.62 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9458,6 +9480,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 189.23 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 189.23 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -9731,6 +9764,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 102.87 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "54eeafe1-6194-4a70-8918-84918f16ea26")
 		)
@@ -9912,6 +9956,17 @@
 				)
 			)
 		)
+		(property "Category" "Cable"
+			(at 123.19 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dbf36f9b-c616-4c22-9382-67bece974987")
 		)
@@ -10083,6 +10138,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 123.19 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 123.19 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -10276,6 +10342,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 76.2 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4a90d55d-a6fe-4f05-9358-0a0965ca7f3d")
 		)
@@ -10423,6 +10500,17 @@
 			)
 		)
 		(property "Package" "3.5mm TRS Plug"
+			(at 54.61 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 54.61 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -10694,6 +10782,17 @@
 				)
 			)
 		)
+		(property "Category" "Cable"
+			(at 123.19 241.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7c947198-c67b-4320-9277-0c3e9053785d")
 		)
@@ -10865,6 +10964,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 68.58 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 68.58 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -11133,6 +11243,17 @@
 				)
 			)
 		)
+		(property "Category" "Cable"
+			(at 68.58 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "54d57e78-e010-48dd-887c-dd7e7f901c3a")
 		)
@@ -11301,6 +11422,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 41.91 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 41.91 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -11504,6 +11636,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 134.62 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "14"
 			(uuid "5392778b-0e9c-46e4-bcb1-8a106c6d5d93")
 		)
@@ -11676,6 +11819,17 @@
 			)
 		)
 		(property "Package" "Audi RNS-E 32-pin connector housing"
+			(at 182.88 247.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 182.88 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -11959,6 +12113,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 147.32 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "MP1"
 			(uuid "b224f2e0-2f95-42aa-b03e-b332b55919e8")
 		)
@@ -12157,6 +12322,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 45.72 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 45.72 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12393,6 +12569,17 @@
 				)
 			)
 		)
+		(property "Category" "Cable"
+			(at 123.19 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b441d599-e735-4ba9-aa78-c014906e0192")
 		)
@@ -12569,6 +12756,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 187.96 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 187.96 77.47 90)
 			(hide yes)
 			(show_name no)
@@ -12834,6 +13032,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 83.82 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0f103e1b-b510-4c5e-a25a-b441c895dc3c")
 		)
@@ -13005,6 +13214,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 123.19 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 123.19 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -13190,7 +13410,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -13286,6 +13506,17 @@
 		)
 		(property "Length" ""
 			(at 43.18 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" ""
+			(at 43.18 104.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13463,6 +13694,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 68.58 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 68.58 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -13659,6 +13901,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 102.87 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "068082e6-46e3-40b9-b4eb-986647adc618")
 		)
@@ -13830,6 +14083,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 68.58 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 68.58 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -14101,6 +14365,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 168.91 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4ca0007e-1aba-4c3b-8b1a-32d31910f21f")
 		)
@@ -14282,6 +14557,17 @@
 				)
 			)
 		)
+		(property "Category" "Cable"
+			(at 123.19 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b51af3d2-3de7-4c5d-9f0f-91f24e6d5bc0")
 		)
@@ -14407,6 +14693,17 @@
 			)
 		)
 		(property "Price" "~2,60€"
+			(at 93.98 257.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "Cable"
 			(at 93.98 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -14602,6 +14899,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 144.78 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 144.78 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -14870,6 +15178,17 @@
 				)
 			)
 		)
+		(property "Category" "Cable"
+			(at 68.58 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "54d57e78-e010-48dd-887c-dd7e7f901c3d")
 		)
@@ -15120,6 +15439,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 201.93 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 201.93 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -15427,6 +15757,17 @@
 				)
 			)
 		)
+		(property "Category" "Cable"
+			(at 93.98 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "9"
 			(uuid "d24fcbe9-ce94-4f07-8e78-70b3188201e0")
 		)
@@ -15640,6 +15981,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 76.2 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4a90d55d-a6fe-4f05-9358-0a0965ca7f3e")
 		)
@@ -15661,7 +16013,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -15757,6 +16109,17 @@
 		)
 		(property "Length" ""
 			(at 43.18 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" ""
+			(at 43.18 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15938,6 +16301,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 74.93 135.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 74.93 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -16132,6 +16506,17 @@
 				)
 			)
 		)
+		(property "Category" "PCB"
+			(at 170.18 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "716d98e0-f1fc-46c4-b639-a7b3ea2011ca")
 		)
@@ -16305,6 +16690,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 171.45 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 171.45 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -16489,6 +16885,17 @@
 			)
 		)
 		(property "Length" ""
+			(at 53.34 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Category" "PCB"
 			(at 53.34 140.97 90)
 			(hide yes)
 			(show_name no)
