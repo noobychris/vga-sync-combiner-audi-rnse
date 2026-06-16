@@ -39,6 +39,10 @@ If your rod fits too loosely or too tightly, adjust the hole or rod diameter acc
 
 After soldering the VGA connector, the ground/shield feet of the VGA connector may need to be shortened slightly. Otherwise they may interfere with the case fit.
 
+<p align="center">
+  <img src="docs/images/cut.png" alt="PCB" width="1200">
+</p>
+
 Before closing the case, check that:
 
 - the PCB sits flat in the case
