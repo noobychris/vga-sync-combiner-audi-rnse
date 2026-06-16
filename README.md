@@ -14,6 +14,8 @@ The Audi RNS-E RGB input expects RGBS video, while common VGA sources output RGB
 
 The PCB is designed to be hand-solder friendly. It uses larger SMD packages where practical, mainly 1206 passives and an SOIC-14 logic IC. The layout is intended for manual assembly rather than automated production.
 
+The capacitors are MLCC parts, so they are non-polarized and can be soldered in either orientation. This avoids polarity mistakes during manual assembly.
+
 Power for the logic IC can be selected by jumper:
 
 | Jumper source    | Description           |
