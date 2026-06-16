@@ -79,14 +79,21 @@ The case files are located in:
 │  ├─ 3d_models/
 │  ├─ vga_sync_combiner.3mf
 │  └─ vga_sync_combiner.stl
+├─ bom/
+│  ├─ bom_vga_sync_combiner_for_audi_rns-e_complete.csv
+│  └─ bom_vga_sync_combiner_for_audi_rns-e_assembly_service.csv
 ├─ docs/
 │  └─ images/
 ├─ kicad_files/
 │  ├─ 3dmodels/
 │  ├─ gerber_to_order/
+│  │  ├─ vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_Default.zip
+│  │  ├─ vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_Elecrow.zip
+│  │  ├─ vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_FusionPCB.zip
+│  │  ├─ vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_JLCPCB.zip
+│  │  └─ vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_PCBWay.zip
 │  ├─ vga_sync_combiner_for_rns-e_footprints.pretty/
 │  ├─ vga_sync_combiner_for_rns-e_symbols.kicad_sym
-│  ├─ vga_sync_combiner_for_audi_rns-e.csv
 │  ├─ vga_sync_combiner_for_audi_rns-e.kicad_pro
 │  ├─ vga_sync_combiner_for_audi_rns-e.kicad_sch
 │  ├─ vga_sync_combiner_for_audi_rns-e.kicad_pcb
@@ -94,18 +101,6 @@ The case files are located in:
 └─ README.md
 ```
 
-## Production Files
-
-The `kicad_files/gerber_to_order/` folder contains Gerber ZIP exports for ordering bare PCBs.
-
-Available exports:
-
-```text
-kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_Default.zip
-kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_Elecrow.zip
-kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_FusionPCB.zip
-kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_JLCPCB.zip
-kicad_files/gerber_to_order/vga_sync_combiner_for_audi_rns-e_31.0x31.0mm_for_PCBWay.zip
 ```
 
 The BOM is located at:
