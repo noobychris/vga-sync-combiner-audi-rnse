@@ -46,6 +46,19 @@ For the tested setup, a Raspberry Pi with Micro HDMI output was used together wi
 
 Reference: [Twozoh Micro HDMI to VGA cable](https://www.amazon.de/Twozoh-Geflochten-Micro-HDMI-unterst%C3%BCtzt-kompatibel/dp/B0CC9CVRDV)
 
+# Optional EDID installer
+
+This repository also includes an optional `install_edid.sh` script for the Audi RNS-E Raspberry Pi display setup.
+
+The script can install/test EDID files or apply custom `800x480` HDMI timings. It is mainly intended for experimenting with the RNS-E RGB/RGBS video input and different HDMI/VGA or scaler setups.
+
+I have included two `800x480` EDID files for the 193 / 2010 RNS-E:
+
+```text
+Karmannsport_RNSE_EDID.bin
+pcbbc_Rpi_RNSE_800x480i_EDID.bin
+```
+
 ## Audi RNS-E Connection
 
 The board was made for an Audi RNS-E RGBS input setup. The RGB and C-Sync output can be wired to the corresponding RNS-E AV/RGB connector pins.
@@ -71,7 +84,8 @@ The case files are located in:
    └─ vga_sync_combiner_with_all_pcb_parts.step
 ```
 
-## Repository Structure
+
+## Repository structure
 
 ```text
 /
@@ -84,6 +98,11 @@ The case files are located in:
 │  └─ bom_vga_sync_combiner_for_audi_rns-e_assembly_service.csv
 ├─ docs/
 │  └─ images/
+├─ edid_installer/
+│  ├─ edid/
+│  │  ├─ Karmannsport_RNSE_EDID.bin
+│  │  └─ pcbbc_Rpi_RNSE_800x480i_EDID.bin
+│  └─ install_edid.sh
 ├─ kicad_files/
 │  ├─ 3dmodels/
 │  ├─ gerber_to_order/
@@ -99,9 +118,7 @@ The case files are located in:
 │  ├─ vga_sync_combiner_for_audi_rns-e.kicad_pcb
 │  └─ vga_sync_combiner_for_audi_rns-e.kicad_prl
 └─ README.md
-```
-
-```
+````
 
 The BOM is located at:
 
