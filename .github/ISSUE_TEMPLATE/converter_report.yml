@@ -1,19 +1,35 @@
+```yaml
 name: Micro HDMI to VGA Converter Report
-description: Report a tested Micro HDMI to VGA converter.
+description: Report compatibility results for a Micro HDMI to VGA converter.
 title: "[Converter Report]: "
 labels:
   - compatibility
+
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for testing a Micro HDMI to VGA converter.
+
+        Please provide as much information as possible so other users can reproduce your setup and results.
+
   - type: input
     id: converter_name
     attributes:
       label: Converter name
+      description: Product name as listed by the seller or manufacturer.
       placeholder: Official Raspberry Pi Micro-HDMI to VGA Cable
     validations:
       required: true
 
   - type: input
-    id: purchase_link
+    id: manufacturer
+    attributes:
+      label: Manufacturer / Brand
+      placeholder: Raspberry Pi Ltd., UGREEN, Benfei, Twozoh
+
+  - type: input
+    id: product_link
     attributes:
       label: Product link
       placeholder: https://...
@@ -25,20 +41,20 @@ body:
       placeholder: 8 €
 
   - type: dropdown
-    id: pin9
+    id: vga_pin9
     attributes:
-      label: VGA Pin 9 (+5V)
+      label: VGA Pin 9 (+5V available)
       options:
-        - Yes
-        - No
-        - Unknown
+        - "Yes"
+        - "No"
+        - "Unknown"
     validations:
       required: true
 
   - type: dropdown
     id: result
     attributes:
-      label: Result
+      label: Test result
       options:
         - "Working"
         - "Working with issues"
@@ -51,23 +67,38 @@ body:
     id: setup
     attributes:
       label: Test setup
+      description: Describe your hardware setup.
       placeholder: |
-        Raspberry Pi model:
-        HDMI to VGA converter:
+        Raspberry Pi model: Raspberry Pi 4B 4GB
+        HDMI output: HDMI-1 / HDMI-2
+        Converter:
         Sync combiner version:
         RNS-E model:
+        Power source:
 
   - type: textarea
-    id: issues
+    id: image_quality
     attributes:
-      label: Observed issues
+      label: Image quality observations
       placeholder: |
-        Picture interruptions
-        Flickering
-        No image
         Stable image
+        Occasional picture interruptions
+        Flickering
+        Black lines
+        Color issues
+        No image
 
   - type: textarea
     id: additional_notes
     attributes:
       label: Additional notes
+      placeholder: Any other observations or measurements.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have personally tested this converter.
+          required: true
+```
