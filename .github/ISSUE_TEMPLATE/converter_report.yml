@@ -50,6 +50,17 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        > **Note about backfeeding**
+        >
+        > The sync combiner may appear to work without a proper 5V supply due to backfeeding through the HSync/VSync inputs.
+        > This happens through the 74HCT86 input protection diodes.
+        >
+        > This is unintended behavior and should not be used as a power source.
+        > Always power the sync combiner from one of the supported 5V inputs.
+
   - type: dropdown
     id: result
     attributes:
