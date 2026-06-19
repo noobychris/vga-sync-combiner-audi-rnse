@@ -44,9 +44,9 @@ body:
     attributes:
       label: VGA Pin 9 (+5V available)
       options:
+        - "Unknown"
         - "Yes"
         - "No"
-        - "Unknown"
     validations:
       required: true
 
