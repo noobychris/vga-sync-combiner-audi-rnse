@@ -35,6 +35,12 @@ Power for the logic IC can be selected by jumper:
 
 The external JST input is intended as an optional 5V supply. Its polarity is marked directly on the PCB. Check polarity before applying power.
 
+## ⚠️ Sync combiner operates without external power
+
+In some setups, the sync combiner may appear to work even when no power supply is connected. This can happen due to backfeeding through the HSync and VSync input signals.
+
+This is unintended behavior and should not be used as a valid power source. Always power the sync combiner from one of the supported 5V inputs.
+
 
 ## Video Source / HDMI to VGA Adapter
 
