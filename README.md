@@ -49,6 +49,7 @@ For the tested setup, a Raspberry Pi with Micro HDMI output was used together wi
 | Converter | Price | Result | VGA Pin 9 (+5V) | Notes | Link |
 |-----------|--------|---------|-----------------|---------|------|
 | Male Micro HDMI to Female VGA Adapter Active | ~4 € | ✅ Working | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://aliexpress.com/item/1005006115048037.html) |
+| BENFEI HDMI to VGA | ~7 € | ✅ Working | ❌ No | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de/dp/B075GZ8DX7) |
 | Twozoh Micro HDMI to VGA Adapter | ~14 € | ⚠️ Works, but occasional picture interruptions | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de//dp/B0CC9CVRDV) |
 | Twozoh HDMI to VGA Adapter | ~14 € | ⚠️ Works, but occasional picture interruptions | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de/dp/B0BNTPLYZL) |
 
