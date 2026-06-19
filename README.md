@@ -42,9 +42,8 @@ The board expects a VGA/RGBHV input signal. When using a Raspberry Pi or similar
 
 Depending on the Raspberry Pi version, this may be a full-size HDMI, Mini HDMI or Micro HDMI to VGA adapter/cable.
 
-For the tested setup, a Raspberry Pi with Micro HDMI output was used together with a Twozoh Micro HDMI to VGA cable, 1 m.
 
-## Tested (Micro) HDMI to VGA Converters
+## Tested (Micro) HDMI to VGA Converters &nbsp;&nbsp;&nbsp; [![Report Converter](https://img.shields.io/badge/Report%20Converter-orange)](https://github.com/noobychris/vga-sync-combiner-audi-rnse/issues/new?labels=compatibility&template=converter_report.yml)
 
 | Converter | Price | Result | VGA Pin 9 (+5V) | Notes | Link |
 |-----------|--------|---------|-----------------|---------|------|
@@ -55,8 +54,7 @@ For the tested setup, a Raspberry Pi with Micro HDMI output was used together wi
 | Twozoh HDMI to VGA Adapter | ~14 € | ⚠️ Works, but occasional picture interruptions | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de/dp/B0BNTPLYZL) |
 
 
-
-# Optional EDID installer
+## Optional EDID installer
 
 This repository also includes an optional `install_edid.sh` script for the Audi RNS-E Raspberry Pi display setup.
 
