@@ -40,10 +40,10 @@ body:
     attributes:
       label: Result
       options:
-        - Working
-        - Working with issues
-        - Not working
-        - Ordered, not tested yet
+        - "Working"
+        - "Working with issues"
+        - "Not working"
+        - "Ordered, not tested yet"
     validations:
       required: true
 
