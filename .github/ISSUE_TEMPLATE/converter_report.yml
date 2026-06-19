@@ -1,9 +1,3 @@
-name: Micro HDMI to VGA Converter Report
-description: Report compatibility results for a Micro HDMI to VGA converter.
-title: "[Converter Report]: "
-labels:
-  - compatibility
-
 body:
   - type: markdown
     attributes:
