@@ -44,7 +44,15 @@ Depending on the Raspberry Pi version, this may be a full-size HDMI, Mini HDMI o
 
 For the tested setup, a Raspberry Pi with Micro HDMI output was used together with a Twozoh Micro HDMI to VGA cable, 1 m.
 
-Reference: [Twozoh Micro HDMI to VGA cable](https://www.amazon.de/Twozoh-Geflochten-Micro-HDMI-unterst%C3%BCtzt-kompatibel/dp/B0CC9CVRDV)
+## Tested (Micro) HDMI to VGA Converters
+
+| Converter | Price | Result | VGA Pin 9 (+5V) | Notes | Link |
+|-----------|--------|---------|-----------------|---------|------|
+| Male Micro HDMI to Female VGA Adapter Active | ~4 € | ✅ Working | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://aliexpress.com/item/1005006115048037.html) |
+| Twozoh Micro HDMI to VGA Adapter | ~14 € | ⚠️ Works, but occasional picture interruptions | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de//dp/B0CC9CVRDV) |
+| Twozoh HDMI to VGA Adapter | ~14 € | ⚠️ Works, but occasional picture interruptions | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de/dp/B0BNTPLYZL) |
+
+
 
 # Optional EDID installer
 
