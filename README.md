@@ -49,15 +49,16 @@ The board expects a VGA/RGBHV input signal. When using a Raspberry Pi or similar
 Depending on the Raspberry Pi version, this may be a full-size HDMI, Mini HDMI or Micro HDMI to VGA adapter/cable.
 
 
-## Tested (Micro) HDMI to VGA Converters &nbsp;&nbsp;&nbsp; [![Report Converter](https://img.shields.io/badge/Report%20Converter-orange)](https://github.com/noobychris/vga-sync-combiner-audi-rnse/issues/new?labels=compatibility&template=converter_report.yml)
+## Tested (Micro) HDMI to VGA Converters with Raspberry Pi 4B &nbsp;&nbsp;&nbsp; [![Report Converter](https://img.shields.io/badge/Report%20Converter-orange)](https://github.com/noobychris/vga-sync-combiner-audi-rnse/issues/new?labels=compatibility&template=converter_report.yml)
 
-| Converter | Price | Result | VGA Pin 9 (+5V) | Notes | Link |
-|-----------|--------|---------|-----------------|---------|------|
-| Male Micro HDMI to Female VGA Adapter Active | ~4 € | ✅ Working | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://aliexpress.com/item/1005006115048037.html) |
-| Official Raspberry Pi Micro-HDMI to VGA Cable | ⌛ | ⌛ Ordered, not tested yet | ⌛ | ⌛ Ordered, not tested yet | [Link](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
-| BENFEI HDMI to VGA | ~7 € | ✅ Working | ❌ No | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de/dp/B075GZ8DX7) |
-| Twozoh Micro HDMI to VGA Adapter | ~14 € | ⚠️ Works, but occasional picture interruptions | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de//dp/B0CC9CVRDV) |
-| Twozoh HDMI to VGA Adapter | ~14 € | ⚠️ Works, but occasional picture interruptions | ✅ Yes | Tested with Raspberry Pi 4 and Audi RNS-E | [Link](https://www.amazon.de/dp/B0BNTPLYZL) |
+| Converter | Price* | Result | VGA Pin 9 (+5V) | Link |
+|-----------|---------|---------|-----------------|------|
+| Male Micro HDMI to Female VGA Adapter Active | ~4 € | ✅ Working | ✅ Yes | [AliExpress](https://aliexpress.com/item/1005006115048037.html) |
+| Official Raspberry Pi Micro-HDMI to VGA Cable | ~7 € | ✅ Working | ✅ Yes | [The Pi Hut](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
+| Hama Video Adapter HDMI™ Plug to VGA Socket (00200344) | ~17 € | ✅ Working | ✅ Yes | [Hama](https://nordics.hama.com/00200344/hama-video-adapter-hdmi-plug-vga-socket-full-hd-1080p) |
+| BENFEI HDMI to VGA Adapter | ~7 € | ✅ Working | ❌ No | [Amazon](https://www.amazon.de/dp/B075GZ8DX7) |
+| Twozoh Micro HDMI to VGA Adapter | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | [Amazon](https://www.amazon.de/dp/B0CC9CVRDV) |
+| Twozoh HDMI to VGA Adapter | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | [Amazon](https://www.amazon.de/dp/B0BNTPLYZL) |
 
 
 ## Optional EDID installer
