@@ -53,7 +53,7 @@ Depending on the Raspberry Pi version, this may be a full-size HDMI, Mini HDMI o
 
 | Converter | Price* | Result | VGA Pin 9 (+5V) | Link |
 |-----------|---------|---------|-----------------|------|
-| Official Raspberry Pi Micro-HDMI to VGA Cable | ~7 € | ✅ Working | ✅ Yes | [The Pi Hut](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
+| Official Raspberry Pi Micro-HDMI to VGA Cable | ~7 € | ✅ Working | ❌ No | [The Pi Hut](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
 | Hama Video Adapter HDMI™ Plug to VGA Socket (00200344) | ~17 € | ✅ Working | ✅ Yes | [Hama](https://nordics.hama.com/00200344/hama-video-adapter-hdmi-plug-vga-socket-full-hd-1080p) |
 | Male Micro HDMI to Female VGA Adapter Active | ~4 € | ✅ Working | ❌ No | [AliExpress](https://aliexpress.com/item/1005006115048037.html) |
 | BENFEI HDMI to VGA Adapter | ~7 € | ✅ Working | ❌ No | [Amazon](https://www.amazon.de/dp/B075GZ8DX7) |
