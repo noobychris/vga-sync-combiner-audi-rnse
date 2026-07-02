@@ -35,6 +35,17 @@ Power for the logic IC can be selected by jumper:
 
 The external JST input is intended as an optional 5V supply. Its polarity is marked directly on the PCB. Check polarity before applying power.
 
+## Specifications
+
+- Input: VGA RGBHV
+- Output: RGBS (Composite Sync)
+- Supply voltage: 5 V DC
+- Typical current consumption: 15–20 mA
+- Supported logic ICs:
+  - 74HCT86 (recommended)
+  - 74LS86 (supported)
+- PCB dimensions: 31 × 31 mm
+
 ## ⚠️ Sync combiner operates without external power
 
 In some setups, the sync combiner may appear to work even when no power supply is connected. This can happen due to backfeeding through the HSync and VSync input signals.
