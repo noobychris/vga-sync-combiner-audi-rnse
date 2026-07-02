@@ -45,6 +45,7 @@ The external JST input is intended as an optional 5V supply. Its polarity is mar
   - 74HCT86 (recommended)
   - 74LS86 (supported)
 - PCB dimensions: 31 × 31 mm
+- PCB thickness: 1.6 mm
 
 ## ⚠️ Sync combiner operates without external power
 
