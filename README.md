@@ -63,16 +63,23 @@ Depending on the Raspberry Pi version, this may be a full-size HDMI, Mini HDMI o
 
 ## Tested (Micro) HDMI to VGA Converters with Raspberry Pi 4B &nbsp;&nbsp;&nbsp; [![Report Converter](https://img.shields.io/badge/Report%20Converter-orange)](https://github.com/noobychris/vga-sync-combiner-audi-rnse/issues/new?labels=compatibility&template=converter_report.yml)
 
-| Converter | Price* | Result | VGA Pin 9 (+5V) | Link |
-|-----------|---------|---------|-----------------|------|
-| Hama Video Adapter HDMI™ Plug to VGA Socket (00200344) | ~17 € | ✅ Working | ✅ Yes | [Hama](https://nordics.hama.com/00200344/hama-video-adapter-hdmi-plug-vga-socket-full-hd-1080p) |
-| Official Raspberry Pi Micro-HDMI to VGA Cable | ~7 € | ✅ Working | ❌ No | [The Pi Hut](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
-| Male Micro HDMI to Female VGA Adapter Active | ~4 € | ✅ Working | ❌ No | [AliExpress](https://aliexpress.com/item/1005006115048037.html) |
-| BENFEI HDMI to VGA Adapter | ~7 € | ✅ Working | ❌ No | [Amazon](https://www.amazon.de/dp/B075GZ8DX7) |
-| Delock Adapter HDMI Micro-D male to VGA female (65470) | ~16 € | ⌛ in testing | ❌ No | [DeLock](https://www.delock.de/produkt/65470/merkmale.html?setLanguage=en) |
-| Twozoh Micro HDMI to VGA Adapter | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | [Amazon](https://www.amazon.de/dp/B0CC9CVRDV) |
-| Twozoh HDMI to VGA Adapter | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | [Amazon](https://www.amazon.de/dp/B0BNTPLYZL) |
+**Recommended converter:**  
 
+> The **Hama Video Adapter HDMI™ Plug to VGA Socket (00200344)** is the recommended option for this PCB. It has been tested successfully and provides +5 V on VGA pin 9, allowing the sync combiner to be powered directly through the VGA connection.
+>
+> Since the Hama adapter has a standard HDMI plug, a **Micro-HDMI-to-HDMI adapter, cable or compatible Raspberry Pi HDMI connector adapter** is additionally required.
+
+| Converter | HDMI Input | Price* | Result | +5V on VGA Pin 9 | Recommendation | Link |
+|-----------|------------|---------|--------|-----------------|----------------|------|
+| **Hama Video Adapter HDMI™ Plug to VGA Socket (00200344)** | HDMI | ~17 € | ✅ Working | ✅ Yes | ⭐ **Recommended** | [Hama](https://nordics.hama.com/00200344/hama-video-adapter-hdmi-plug-vga-socket-full-hd-1080p) |
+| Official Raspberry Pi Micro-HDMI to VGA Cable | Micro HDMI | ~7 € | ✅ Working | ❌ No | Alternative with external PCB power | [The Pi Hut](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
+| Male Micro HDMI to Female VGA Adapter Active | Micro HDMI | ~4 € | ✅ Working | ❌ No | Alternative with external PCB power | [AliExpress](https://aliexpress.com/item/1005006115048037.html) |
+| BENFEI HDMI to VGA Adapter | HDMI | ~7 € | ✅ Working | ❌ No | Alternative with external PCB power | [Amazon](https://www.amazon.de/dp/B075GZ8DX7) |
+| Twozoh Micro HDMI to VGA Adapter | Micro HDMI | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | Not recommended | [Amazon](https://www.amazon.de/dp/B0CC9CVRDV) |
+| Twozoh HDMI to VGA Adapter | HDMI | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | Not recommended | [Amazon](https://www.amazon.de/dp/B0BNTPLYZL) |
+| Delock Adapter HDMI Micro-D male to VGA female (65470) | Micro HDMI | ~16 € | ❌ Not working at all | ❌ No | Incompatible | [DeLock](https://www.delock.de/produkt/65470/merkmale.html?setLanguage=en) |
+
+\* Prices are approximate and may vary by seller and region.
 
 ## Optional EDID installer
 
