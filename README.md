@@ -53,14 +53,6 @@ In some setups, the sync combiner may appear to work even when no power supply i
 
 This is unintended behavior and should not be used as a valid power source. Always power the sync combiner from one of the supported 5V inputs.
 
-
-## Video Source / HDMI to VGA Adapter
-
-The board expects a VGA/RGBHV input signal. When using a Raspberry Pi or similar HDMI source, an HDMI-to-VGA adapter or cable is required.
-
-Depending on the Raspberry Pi version, this may be a full-size HDMI, Mini HDMI or Micro HDMI to VGA adapter/cable.
-
-
 ## Tested (Micro) HDMI to VGA Converters with Raspberry Pi 4B &nbsp;&nbsp;&nbsp; [![Report Converter](https://img.shields.io/badge/Report%20Converter-orange)](https://github.com/noobychris/vga-sync-combiner-audi-rnse/issues/new?labels=compatibility&template=converter_report.yml)
 
 **Recommended converter:**  
