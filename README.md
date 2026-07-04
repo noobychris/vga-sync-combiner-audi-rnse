@@ -16,7 +16,6 @@ The circuit is based on the VGA to RGB+CSYNC adapter by Tomi Engdahl. The PCB is
 
 The Audi RNS-E RGB input expects RGBS video, while common VGA sources output RGBHV. This board converts the sync part from RGBHV to RGBS by combining H-Sync and V-Sync into one C-Sync signal. The RGB video lines are routed directly through the PCB.
 
-
 ## PCB
 
 The PCB is designed to be hand-solder friendly. It uses larger SMD packages where practical, mainly 1206 passives and an SOIC-14 logic IC. The layout is intended for manual assembly rather than automated production.
@@ -25,11 +24,15 @@ The capacitors are MLCC parts, so they are non-polarized and can be soldered in 
 
 Power for the logic IC can be selected by jumper:
 
-| Jumper source    | Description           |
-| ---------------- | --------------------- |
-| VGA +5V          | Via VGA Pin 9         |
-| USB-C +5V        | Via USB-C connector   |
-| External JST +5V | Via external 5V input |
+| PCB label | Power source | Description | Notes |
+|-----------|--------------|-------------|-------|
+| `VGA` | VGA +5V | Via VGA Pin 9 | Requires an HDMI-to-VGA converter that supplies +5V on VGA Pin 9. Not all converters do this. Check the tested converter table before using this option. |
+| `USB` | USB-C +5V | Via USB-C connector | Use this option if the converter does not provide +5V on VGA Pin 9. |
+| `EXT` | External +5V | Via external JST input | Optional external 5V supply. Check the polarity marked on the PCB before applying power. |
+
+> **Important:** Only one jumper position and one 5V power source must be used at a time. Do not connect multiple 5V sources simultaneously.
+
+A converter may work correctly for video output while still not supplying +5V on VGA Pin 9. In that case, power the PCB through `USB` or `EXT`.
 
 **Only one jumper position and one 5V power source must be used at a time. Do not connect multiple 5V sources simultaneously.**
 
