@@ -174,3 +174,12 @@ The included PCB adapts the concept for an Audi RNS-E RGBS input use case.
 <p align="center">
   <img src="/docs/images/vga2rgbs_ttl.png" alt="Original Engdahl VGA to RGBS schematic" width="1200">
 </p>
+
+## License
+
+The hardware design files in this repository, including schematics,
+PCB layouts, Gerber files, manufacturing files, and documentation,
+are licensed under the CERN Open Hardware Licence Version 2 –
+Permissive (CERN-OHL-P-2.0).
+
+See the [LICENSE](LICENSE) file for the full license text.
