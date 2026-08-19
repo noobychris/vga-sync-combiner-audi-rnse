@@ -63,19 +63,22 @@ This is unintended behavior and should not be used as a valid power source. Alwa
 > The **Hama Video Adapter HDMI™ Plug to VGA Socket (00200344)** is the recommended option for this PCB. It has been tested successfully and provides +5 V on VGA pin 9, allowing the sync combiner to be powered directly through the VGA connection.
 >
 > Since the Hama adapter has a standard HDMI plug, a **Micro-HDMI-to-HDMI adapter, cable or compatible Raspberry Pi HDMI connector adapter** is additionally required.
+>
+> Since it has a female VGA output, a **VGA male-to-male gender changer** is also required.
 
-| Converter | HDMI Input | Price* | Result | +5V on VGA Pin 9 | Recommendation | Link |
-|-----------|------------|---------|--------|-----------------|----------------|------|
-| **Hama Video Adapter HDMI™ Plug to VGA Socket (00200344)** | HDMI | ~17 € | ✅ Working | ✅ Yes | ⭐ **Recommended** | [Hama](https://nordics.hama.com/00200344/hama-video-adapter-hdmi-plug-vga-socket-full-hd-1080p) |
-| Official Raspberry Pi Micro-HDMI to VGA Cable | Micro HDMI | ~7 € | ✅ Working | ❌ No | Alternative with external PCB power | [The Pi Hut](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
-| Male Micro HDMI to Female VGA Adapter Active | Micro HDMI | ~4 € | ✅ Working | ❌ No | Alternative with external PCB power | [AliExpress](https://aliexpress.com/item/1005006115048037.html) |
-| BENFEI HDMI to VGA Adapter | HDMI | ~7 € | ✅ Working | ❌ No | Alternative with external PCB power | [Amazon](https://www.amazon.de/dp/B075GZ8DX7) |
-| Twozoh Micro HDMI to VGA Adapter | Micro HDMI | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | Not recommended | [Amazon](https://www.amazon.de/dp/B0CC9CVRDV) |
-| Twozoh HDMI to VGA Adapter | HDMI | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | Not recommended | [Amazon](https://www.amazon.de/dp/B0BNTPLYZL) |
-| Delock Adapter HDMI Micro-D male to VGA female (65470) | Micro HDMI | ~16 € | ❌ Not working at all | ❌ No | Incompatible | [DeLock](https://www.delock.de/produkt/65470/merkmale.html?setLanguage=en) |
+| Converter | HDMI Input | VGA Output | HDMI Adapter | VGA Gender Changer | Price | Result | +5V on VGA Pin 9 | Recommendation | Link |
+|-----------|------------|------------|--------------|--------------------|-------|--------|-----------------|----------------|------|
+| 🏆 **Hama Video Adapter HDMI™ Plug to VGA Socket (00200344)** | HDMI | female | ✅ Required | ✅ Required | ~17 € | ✅ Working | ✅ Yes | ⭐ **Recommended** | [Hama](https://nordics.hama.com/00200344/hama-video-adapter-hdmi-plug-vga-socket-full-hd-1080p) |
+| Official Raspberry Pi Micro-HDMI to VGA Cable | Micro HDMI | male | ❌ No | ❌ No | ~7 € | ✅ Working | ❌ No | Alternative with external PCB power | [The Pi Hut](https://thepihut.com/products/official-raspberry-pi-micro-hdmi-to-vga-cable) |
+| Male Micro HDMI to Female VGA Adapter Active | Micro HDMI | female | ❌ No | ✅ Required | ~4 € | ✅ Working | ❌ No | Alternative with external PCB power | [AliExpress](https://aliexpress.com/item/1005006115048037.html) |
+| BENFEI HDMI to VGA Adapter | HDMI | female | ✅ Required | ✅ Required | ~7 € | ✅ Working | ❌ No | Alternative with external PCB power | [Amazon](https://www.amazon.de/dp/B075GZ8DX7) |
+| Twozoh Micro HDMI to VGA Adapter | Micro HDMI | male | ❌ No | ❌ No | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | Not recommended | [Amazon](https://www.amazon.de/dp/B0CC9CVRDV) |
+| Twozoh HDMI to VGA Adapter | HDMI | male | ✅ Required | ❌ No | ~14 € | ⚠️ Occasional picture interruptions | ✅ Yes | Not recommended | [Amazon](https://www.amazon.de/dp/B0BNTPLYZL) |
+| Delock Adapter HDMI Micro-D male to VGA female (65470) | Micro HDMI | female | ❌ No | ✅ Required | ~16 € | ❌ Not working at all | ❌ No | Incompatible | [DeLock](https://www.delock.de/produkt/65470/merkmale.html?setLanguage=en) |
 
-\* Prices are approximate and may vary by seller and region.
+**HDMI Adapter:** A Micro-HDMI-to-HDMI adapter or cable is required for converters with a standard HDMI input when used with the Raspberry Pi 4B.
 
+**VGA Gender Changer:** A VGA male-to-male gender changer is required for converters with a female VGA output.
 ## Optional EDID installer
 
 This repository also includes an optional `install_edid.sh` script for the Audi RNS-E Raspberry Pi display setup.
